@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei_Lusiadas.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Os Lusíadas</title>
+                <author>Luís de Camões</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>INSERIR O NOME AQUI</publisher>
+                <date>1572</date>
+                <pubPlace>Lisboa</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Edição de Os Lusíadas com o pelicano à direita no frontispício.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <titlePage>
+                
+            </titlePage>
+            <pb/>
+            <div type="AlvaraRegio">
+                
+            </div>
+            <pb/>
+            <div type="LicencaSantoOficio">
+                
+            </div>
+            <pb/>
+        </front>
+        <body>
+            <div type="canto" n="1">
+                <head>OS LVSIADAS <lb/>DE LVIS DE <lb/>CAMÕES.</head>
+                <lb/>
+                <head>Canto Primeiro</head>
+                <lg type="estrofe" n="1">
+                    
+                </lg>
+                <lg type="estrofe" n="2">
+                    
+                </lg>
+
+            </div>
+        </body>
+    </text>
+</TEI>
