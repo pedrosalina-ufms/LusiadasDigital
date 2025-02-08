@@ -21,86 +21,90 @@
         <front>
             <titlePage>
                 <docTitle>
-                    <titlePart>OS <lb/>LVSIADAS</titlePart>
+                    <titlePart>OS <lb />LVSIADAS</titlePart>
                 </docTitle>
-                <docAuthor><lb/>de Luis de Ca-<lb break="no"/>moẽs.</docAuthor>
-                <docImprint><lb/>COM PRIVILEGIO <lb/>REAL. <lb/>Impressos em
-                        <pubPlace>Lisboa</pubPlace>, com licença da <lb/>sancta lnquisição, &amp; do
-                    Ordina- <lb break="no"/>rio: em casa de <name>Antonio <lb/>Gõçaluez</name>
-                    Impressor. <lb/><date>1572</date>.</docImprint>
+                <docAuthor><lb />de Luis de Ca-<lb break="no" />moẽs.</docAuthor>
+                <docImprint><lb />COM PRIVILEGIO <lb />REAL. <lb />Impressos em <pubPlace>Lisboa</pubPlace>,
+                    com licença da <lb />sancta lnquisição, &amp; do Ordina- <lb break="no" />rio:
+                    em casa de <name>Antonio <lb />Gõçaluez</name> Impressor. <lb /><date>1572</date>
+                    .</docImprint>
             </titlePage>
-            <pb/>
+            <pb />
             <div type="AlvaraRegio">
-                <p>EV el Rey faço saber aos que este Aluara virem <lb/>que eu ey por bem &amp; me
-                    praz dar licença <lb/>a Luis de Camoẽs pera que possa fazer im- <lb break="no"
-                    />primir nesta cidade de Lisboa, hũa obra em <lb/>Octaua rima chamada Os
-                    Lusiadas, que con- <lb break="no"/>tem dez cantos perfeitos, na qual por ordem
-                    <lb/>poetica em versos se declarão os principaes fei <lb break="no"/>tos dos
-                    portugueses nas partes da India depois que se descobrio a <lb/>nauegação pera
-                    ellas por mãdado del Rey dom Manoel meu visa <lb/>uo que sancta gloria aja,
-                    &amp; isto com priuilegio pera que em tem- <lb break="no"/>po de dez anos que se
-                    começarão do dia que se a dita obra acabar <lb/>de empremir em diãte, se não
-                    possa imprimir nẽ vender em meus <lb/>reinos &amp; senhorios nem trazer a elles
-                    de fora, nem leuar aas ditas <lb/>partes da India pera se vender sem licẽça do
-                    dito Luis de Camoẽs <lb/>ou da pessoa que pera isso seu poder tiuer, sob pena de
-                    quẽ o con- <lb break="no"/>trario fizer pagar cinquoenta cruzados &amp; perder
-                    os volmes que <lb/>imprimir, ou vender, a metade pera o dito Luis de Camões,
-                    &amp; a <lb/>outra metade pera quem os acusar. E antes de se a dita obra ven
-                    <lb/>der lhe sera posto o preço na mesa do despacho dos meus Desem- <lb
-                        break="no"/>bargadores do paço, o qual se declarará &amp; porá impresso na
-                    pri- <lb break="no"/>meira folha da dita obra pera ser a todos notorio, &amp;
-                    antes de se im <lb break="no"/>primir sera vista &amp; examinada na mesa do
-                    conselho geral do san- <lb break="no"/>to officio da Inquisição pera cõ sua
-                    licença se auer de imprimir, &amp; <lb/>se o dito Luis de Camões tiuer
-                    acrecentados mais algũs Cantos, <lb/>tambem se imprimirão auendo pera isso
-                    licença do lanto officio, <lb/>como acima he dito. E este meu Aluara se
-                    imprimirà outrosi no <lb/>principio da dita obra, o qual ey por bem que valha
-                    &amp; tenha for- <lb break="no"/>ça &amp; vigor, como se fosse carta feita em
-                    meu nome por mim assi- <lb break="no"/>nada &amp; passada por minha Chancellaria
-                    sem embargo da Orde- <lb break="no"/>nação do segundo liuro, tit.xx. que diz que
-                    as cousas cujo effeito <lb/>ouuer de durar mais que hum ano passem per cartas,
-                    &amp; passando <lb/>por aluaras não valhão. <name>Gaspar de Seixas</name> o fiz
-                    em Lisboa, a.xxiiij: <lb/>de Setembro, de M. D. LXXI. <name>Iorge da
+                <p>EV el Rey faço saber aos que este Aluara virem <lb />que eu ey por bem &amp; me
+                    praz dar licença <lb />a Luis de Camoẽs pera que possa fazer im- <lb break="no"
+                    />primir
+                    nesta cidade de Lisboa, hũa obra em <lb />Octaua rima chamada Os Lusiadas, que
+                    con- <lb break="no" />tem dez cantos perfeitos, na qual por ordem <lb />poetica
+                    em versos se declarão os principaes fei <lb break="no" />tos dos portugueses nas
+                    partes da India depois que se descobrio a <lb />nauegação pera ellas por mãdado
+                    del Rey dom Manoel meu visa <lb />uo que sancta gloria aja, &amp; isto com
+                    priuilegio pera que em tem- <lb break="no" />po de dez anos que se começarão do
+                    dia que se a dita obra acabar <lb />de empremir em diãte, se não possa imprimir
+                    nẽ vender em meus <lb />reinos &amp; senhorios nem trazer a elles de fora, nem
+                    leuar aas ditas <lb />partes da India pera se vender sem licẽça do dito Luis de
+                    Camoẽs <lb />ou da pessoa que pera isso seu poder tiuer, sob pena de quẽ o con- <lb
+                        break="no" />trario fizer pagar cinquoenta cruzados &amp; perder os volmes
+                    que <lb />imprimir, ou vender, a metade pera o dito Luis de Camões, &amp; a <lb />outra
+                    metade pera quem os acusar. E antes de se a dita obra ven <lb />der lhe sera
+                    posto o preço na mesa do despacho dos meus Desem- <lb
+                        break="no" />bargadores do paço, o qual se declarará &amp; porá impresso na
+                    pri- <lb break="no" />meira folha da dita obra pera ser a todos notorio, &amp;
+                    antes de se im <lb break="no" />primir sera vista &amp; examinada na mesa do
+                    conselho geral do san- <lb break="no" />to officio da Inquisição pera cõ sua
+                    licença se auer de imprimir, &amp; <lb />se o dito Luis de Camões tiuer
+                    acrecentados mais algũs Cantos, <lb />tambem se imprimirão auendo pera isso
+                    licença do lanto officio, <lb />como acima he dito. E este meu Aluara se
+                    imprimirà outrosi no <lb />principio da dita obra, o qual ey por bem que valha
+                    &amp; tenha for- <lb break="no" />ça &amp; vigor, como se fosse carta feita em
+                    meu nome por mim assi- <lb break="no" />nada &amp; passada por minha
+                    Chancellaria sem embargo da Orde- <lb break="no" />nação do segundo liuro,
+                    tit.xx. que diz que as cousas cujo effeito <lb />ouuer de durar mais que hum ano
+                    passem per cartas, &amp; passando <lb />por aluaras não valhão. <name>Gaspar de
+                    Seixas</name> o fiz em Lisboa, a.xxiiij: <lb />de Setembro, de M. D. LXXI. <name>Iorge
+                    da
                         Costa</name> o fiz escreuer.</p>
             </div>
-            <pb/>
+            <pb />
             <div type="LicencaSantoOficio">
-                <p>VI por mandado da santa &amp; geral inquisição estes dez <lb/>Cantos dos Lusiadas
-                    de Luis de Camões, dos valero-<lb break="no"/>sos feitos em armas que os
-                    Portugueses fizerão em Asia &amp; <lb/>Europa, &amp; não achey nelles cousa
-                    algũa escandalosa, nem <lb/>contraria á fe &amp; bõs custumes, somente me
-                    pareceo que era <lb/>necessario aduertir os Lectores que o Autor pera encarecer
-                    <lb/>a difficuldade da navegação &amp; entrada dos Portugueses na <lb/>India,
-                    vsa de hũa fição dos Deoses dos Gentios. E ainda que <lb/>sancto Augustinho nas
-                    suas Retractações se retracte de ter <lb/>chamado nos liuros que compos de
-                    Ordine, aas Musas Deo-<lb break="no"/>sas Toda via como isto he Poesia &amp;
-                    fingimento, &amp; o Au-<lb break="no"/>tor como poeta, não pretenda mais que
-                    ornar o estilo Poeti- <lb break="no"/>co não tiuemos por inconueniente yr esta
-                    fabula dos Deoses <lb/>na obra, conhecendoa por tal: &amp; ficando sempre salua
-                    a ver-<lb break="no"/>dade de nossa sancta fe, que todos os Deoses dos Gẽtios
-                    sam <lb/>Demonios. E por isso me pareceo o liuro digno de se impri-<lb
-                        break="no"/>mir, &amp; o Autor mostra nelle muito engenho &amp; muita eru-
-                        <lb break="no"/>dição nas sciencias humanas. Em fe do qual assiney aqui.
-                        <lb/><name>Frey Bertholameu <lb/>Ferreira</name>.</p>
+                <p>VI por mandado da santa &amp; geral inquisição estes dez <lb />Cantos dos
+                    Lusiadas de Luis de Camões, dos valero-<lb break="no" />sos feitos em armas que
+                    os Portugueses fizerão em Asia &amp; <lb />Europa, &amp; não achey nelles cousa
+                    algũa escandalosa, nem <lb />contraria á fe &amp; bõs custumes, somente me
+                    pareceo que era <lb />necessario aduertir os Lectores que o Autor pera encarecer <lb />a
+                    difficuldade da navegação &amp; entrada dos Portugueses na <lb />India, vsa de
+                    hũa fição dos Deoses dos Gentios. E ainda que <lb />sancto Augustinho nas suas
+                    Retractações se retracte de ter <lb />chamado nos liuros que compos de Ordine,
+                    aas Musas Deo-<lb break="no" />sas Toda via como isto he Poesia &amp;
+                    fingimento, &amp; o Au-<lb break="no" />tor como poeta, não pretenda mais que
+                    ornar o estilo Poeti- <lb break="no" />co não tiuemos por inconueniente yr esta
+                    fabula dos Deoses <lb />na obra, conhecendoa por tal: &amp; ficando sempre salua
+                    a ver-<lb break="no" />dade de nossa sancta fe, que todos os Deoses dos Gẽtios
+                    sam <lb />Demonios. E por isso me pareceo o liuro digno de se impri-<lb
+                        break="no" />mir, &amp; o Autor mostra nelle muito engenho &amp; muita eru- <lb
+                        break="no" />dição nas sciencias humanas. Em fe do qual assiney aqui. <lb /><name>Frey
+                    Bertholameu <lb />Ferreira</name>.</p>
             </div>
-            <pb/>
+            <pb />
         </front>
         <body>
             <div type="canto" n="1">
-                <head>OS LVSIADAS <lb/>DE LVIS DE <lb/>CAMÕES.</head>
-                <lb/>
+                <head>OS LVSIADAS <lb />DE LVIS DE <lb />CAMÕES.</head>
+                <lb />
                 <head>Canto Primeiro</head>
-                <lg type="estrofe" n="1">
-                    <l>As armas, &amp; os ba-<lb break="no"/>rões assinalados,</l>
-                    <l>Que da Occidental praya Lusi-<lb break="no"/>tana,</l>
-                    <l>Por mares nunca de antes na-<lb break="no"/>uegados,</l>
+                <lg
+                    type="estrofe" n="1">
+                    <l>As armas, &amp; os ba-<lb break="no" />rões assinalados,</l>
+                    <l>Que da Occidental praya Lusi-<lb break="no" />tana,</l>
+                    <l>Por mares nunca de antes na-<lb break="no" />uegados,</l>
                     <l>Passaram, ainda alem da Taprobana,</l>
                     <l>Em perigos, &amp; guerras esforçados,</l>
                     <l>Mais do que prometia a força humana.</l>
                     <l>E entre gente remota edificarão</l>
                     <l>Nouo Reino, que tanto sublimarão.</l>
                 </lg>
-                <lg type="estrofe" n="2">
+                <lg type="estrofe"
+                    n="2">
                     <l>E tambem as memorias gloriosas</l>
                     <l>Daquelles Reis, que forão dilatando</l>
                     <l>A Fee, o lmperio, &amp; as terras viciosas</l>
@@ -110,8 +114,85 @@
                     <l>Cantando espalharey por toda parte,</l>
                     <l>Se a tanto me ajudar o engenho &amp; arte.</l>
                 </lg>
-                <fw type="sig" place="bottom">A</fw>
-                <fw type="catch" place="bottom">Cessem</fw><pb/>
+                <fw
+                    type="sig" place="bottom">A</fw>
+                <fw type="catch" place="bottom">Cessem</fw>
+                <pb />
+                <fw
+                    type="header" place="top">OS LVSIADAS DE L. DE CA.</fw>
+                <lg type="estrofe" n="3">
+                    <l>Cessem do sabio Grego, &amp; do Troyano,</l>
+                    <l>As nauegações grandes que fizerão:</l>
+                    <l>Callese de Alexandro, &amp; de Trajano,</l>
+                    <l>A fama das victorias que tiverão,</l>
+                    <l>Que eu canto o peyto illustre Lusitano,</l>
+                    <l>A quem Neptuno, &amp; Marte obedeçerão:</l>
+                    <l>Cesse tudo o que a Musa antigua canta,</l>
+                    <l>Que outro valor mais alto se aleuanta.</l>
+                </lg>
+                <lg
+                    type="estrofe" n="4">
+                    <l>E vos Tagides minhas, pois criado</l>
+                    <l>Tendes em my hum nouo engenho ardente,</l>
+                    <l>Se sempre em verso humilde, celebrado</l>
+                    <l>Foy de my vosso rio alegremente,</l>
+                    <l>Daime agora hum som alto, &amp; sublimado,</l>
+                    <l>Hum estillo grandiloco, &amp; corrente,</l>
+                    <l>Porque de vossas agoas Phebo ordene,</l>
+                    <l>Que não tenhão enueja aas de Hypocrene.</l>
+                </lg>
+                <lg
+                    type="estrofe" n="5">
+                    <l>Daime hũa furia grande &amp; sonorosa,</l>
+                    <l>E não de agreste <sic>a vena</sic>, ou frauta ruda:</l>
+                    <l>Mas de tuba canora &amp; belicosa,</l>
+                    <l>Que o peito acende, &amp; a cor ao gesto muda:</l>
+                    <l>Daime igoal canto aos feitos da famosa</l>
+                    <l>Gente vossa, que a Marte tanto ajuda:</l>
+                    <l>Que se espalhe &amp; se cante no vniuerso,</l>
+                    <l>Se tam sublime preço cabe em verso.</l>
+                </lg>
+                <fw type="catch"
+                    place="bottom">E vos</fw>
+                <pb n="2" />
+                <fw type="header" place="top">CANTO
+                    PRIMEIRO.</fw>
+                <lg>
+                    <l>E vos ò bem nascida segurança</l>
+                    <l>Da Lusitana antigua liberdade,</l>
+                    <l>E não menos certissima esperança,</l>
+                    <l>De aumento da pequena Christandade:</l>
+                    <l>Vos o nouo temor da Maura lança,</l>
+                    <l>Marauilha fatal da nossa idade:</l>
+                    <l>Dada ao mundo por Deos q̃ todo o mande,</l>
+                    <l>Pera do mundo a Deos dar parte grande.</l>
+                </lg>
+                <lg>
+                    <l>Vos tenrro, &amp; nouo ramo florecente,</l>
+                    <l>De hũa aruore de Christo mais amada</l>
+                    <l>Que nenhũa nascida no Occidente,</l>
+                    <l>Cesarea, ou Christianissima chamada:</l>
+                    <l>Vedeo no vosso escudo, que presente</l>
+                    <l>Vos amostra a victoria ja passada.</l>
+                    <l>Na qual vos deu por armas, &amp; deixou</l>
+                    <l>As que elle pera si na Cruz tomou.</l>
+                </lg>
+                <lg>
+                    <l>Vos poderoso Rei, cujo alto Imperio,</l>
+                    <l>O Sol logo em nascendo ve primeiro:</l>
+                    <l>Veo tambem no meio do Hemispherio,</l>
+                    <l>E quando dece o deixa derradeiro.</l>
+                    <l>Vos que esperamos jugo &amp; vituperio,</l>
+                    <l>Do torpe Ismaelita caualleiro:</l>
+                    <l>Do Turco Oriental, &amp; do Gentio,</l>
+                    <l>Que inda bebe o licor do sancto Rio.</l>
+                </lg>
+                <fw type="sig" place="bottom">A 2</fw>
+                <fw type="catch" place="bottom">Inclinay</fw><pb/>
+
+
+
+
 
             </div>
         </body>
