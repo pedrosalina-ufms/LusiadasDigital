@@ -8,7 +8,7 @@
                 <author>Luís de Camões</author>
             </titleStmt>
             <publicationStmt>
-                <publisher>INSERIR O NOME AQUI</publisher>
+                <publisher>António Gonçalves</publisher>
                 <date>1572</date>
                 <pubPlace>Lisboa</pubPlace>
             </publicationStmt>
@@ -20,15 +20,69 @@
     <text>
         <front>
             <titlePage>
-                
+                <docTitle>
+                    <titlePart>OS <lb/>LVSIADAS</titlePart>
+                </docTitle>
+                <docAuthor><lb/>de Luis de Ca-<lb break="no"/>moẽs.</docAuthor>
+                <docImprint><lb/>COM PRIVILEGIO <lb/>REAL. <lb/>Impressos em
+                        <pubPlace>Lisboa</pubPlace>, com licença da <lb/>sancta lnquisição, &amp; do
+                        Ordina-<lb break="no"/>rio: em casa de <name>Antonio <lb/>Gõçaluez</name>
+                    Impressor. <lb/><date>1572</date> .</docImprint>
             </titlePage>
             <pb/>
             <div type="AlvaraRegio">
-                
+                <p>EV elRtey faço saber aos que este Aluara virẽ <lb/>que eu ey por bem &amp; me
+                    praz dar licença <lb/>a Luis de Camẽes pera que possa fazer im- <lb break="no"
+                    />primir nesta cidade de Lisboa hũa obra em <lb/>Octaua rima chamada Os
+                    Lusiadas, que cõ <lb break="no"/>tem dez cãtos perfeitos, na qual por ordem
+                    <lb/>poetica em versos se declarão os principaes <lb/>feitos dos Portugueses nas
+                    partes da India depois q̃ se desecobrio <lb/>a nauegação pera ellas por mãdado
+                    del Rey dom ManoeL meu <lb/>visauo q̃ sancta gloria aja, &amp; isto com
+                    priuilegio pera que em tẽ- <lb break="no"/>po de dez annos que se começarão do
+                    dia q̃ se a dita cbra acabar <lb/>de imprimir em diãte, se não possa imprimir nẽ
+                    vender em meus <lb/>reinos &amp; senhorios nem trazer a elles de fora, nẽ leuar
+                    aas ditas <lb/>partes da India pera se vẽder sem licẽça do dito Luis de Camões
+                        <lb/><supplied reason="ilegível">ou da</supplied> pessoa que pera isso seu
+                    poder tiuer, sobpena de quẽ o con <lb break="no"/><supplied reason="ilegível"
+                        >trar</supplied>io fizer pagar cinquoẽta cruzados &amp; perder os volumes
+                    que <lb/>imprimir, ou vender, a metade pera o dito Luis de Camões, &amp; a
+                    <lb/>outra metade pera quem os acusar. E antes de se a dita obra ven <lb
+                        break="no"/>der lhe sera posto o preço na mesa do despacho dos meus Desem
+                        <lb break="no"/>bargadores do paço, o qual se declarará &amp; porá impresso
+                    na pri- <lb break="no"/>meira folha da dita obra pera ser a todos notorio, &amp;
+                    antes de se <lb/>imprimir sera vista &amp; examinada na mesa do conselho geeral
+                    <lb/>do sancto officio da Inquisiçam, pera com sua licença se auer de
+                    <lb/>suprimir, &amp; se o dito Luis de Camões tiuer acrecentados mais <lb/>algũs
+                    Cantos, tambem se imprimirão auendo pera isso licença <lb/>do sancto officio,
+                    como acima he dito. E este meu Aluara se <lb/>imprimirá outrosi no principio da
+                    dita obra, o qual ey por bem <lb/>que valha &amp; tenha força &amp; vigor, como
+                    se fosse carta feyta em <lb/>meu nome, per mim assinada, &amp; passada por minha
+                        Chancel-<lb break="no"/>laria, sem embargo da Ordenaçam do segundo livro,
+                    titulo xx. <lb/>que diz que as cousas cujo effeito ouuer de durar mais que hum
+                    <lb/>anno passem per cartas, &amp; passando per aluaras não valham.
+                        <lb/><name>Gaspar de Seixas</name> o fiz em Lisboa, a vinte &amp; quatro
+                    dias do mes <lb/>de Setembro, de M. D. LXXl. <name>Iorge da Costa</name> o fiz
+                    escreuer.</p>
             </div>
             <pb/>
             <div type="LicencaSantoOficio">
-                
+                <p><lb/>VI por mandado da sancta &amp; geral inquisição estes dez <lb/>Cantos dos
+                    Lusiadas de Luis de Camões, dos valerosos <lb/>feitos em armas que os
+                    Portugueses fizeram em Asia &amp; <lb/>Europa, &amp; não achey nelles cousa
+                    algũa escandalosa, nem <lb/>contraria â fee &amp; bõs costumes, somente me
+                    pareceo que era <lb/>necessario aduertir os Lectores que o Author pera encarecer
+                    <lb/>a difficuldade da nauegaçam &amp; entrada dos Portugueses na <lb/>India,
+                    vsa de hũa fição dos Deoses dos Gentios. E ainda que <lb/>sancto Augustinho nas
+                    suas Retractações se retracte de ter <lb/>chamado nos livros que compos de
+                    Ordine, aas Musas Deo- <lb break="no"/>sas. Toda via como isto he Poesia &amp;
+                    fingimento, &amp; o Au- <lb break="no"/>tor como poeta, não pretenda mais que
+                    ornar o estillo Poeti- <lb/>co, não tiuemos por inconueniente yr esta fabula dos
+                    Deoses <lb/>na obra, conhecendoa por tal, &amp; ficando sempre salua a ver- <lb
+                        break="no"/>dade de nossa sancta fee, que todos os Deoses dos Gentios sam
+                    <lb/>Demonios. E por isso me pareceo o Liuro digno de se impri- <lb break="no"
+                    />mir, &amp; o Autor mostra nelle muito engenho, &amp; muita eru- <lb break="no"
+                    />dição nas sciencias humanas. Em fe do qual assiney aqui. <lb/><name>Frey
+                        Bertholameu <lb/>Ferreira</name>.</p>
             </div>
             <pb/>
         </front>
@@ -37,12 +91,8 @@
                 <head>OS LVSIADAS <lb/>DE LVIS DE <lb/>CAMÕES.</head>
                 <lb/>
                 <head>Canto Primeiro</head>
-                <lg type="estrofe" n="1">
-                    
-                </lg>
-                <lg type="estrofe" n="2">
-                    
-                </lg>
+                <lg type="estrofe" n="1"> </lg>
+                <lg type="estrofe" n="2"> </lg>
 
             </div>
         </body>
