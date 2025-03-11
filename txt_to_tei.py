@@ -3,7 +3,7 @@ def txt_to_tei(input_file, output_file):
         lines = file.readlines()
 
     tei_lines = []
-    stanza_number = 9  # Começa a contagem das estrofes a partir do número 9
+    stanza_number = 6  # Começa a contagem das estrofes a partir do número necessário
     verse_counter = 0
 
     for line in lines:
@@ -42,6 +42,6 @@ def txt_to_tei(input_file, output_file):
 
 
 # Uso do script
-input_txt = 'Lusíadas_pelicano_à_esquerda.txt'
-output_tei = 'Lusíadas_pelicano_à_esquerda_tei.xml'
+input_txt = 'lusiadas_pelicano_direita.txt'
+output_tei = 'Lusíadas_pelicano_à_direita_tei.xml'
 txt_to_tei(input_txt, output_tei)
