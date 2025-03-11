@@ -3,7 +3,7 @@ def txt_to_tei(input_file, output_file):
         lines = file.readlines()
 
     tei_lines = []
-    stanza_number = 6  # Começa a contagem das estrofes a partir do número necessário
+    stanza_number = 9  # Começa a contagem das estrofes a partir do número necessário
     verse_counter = 0
 
     for line in lines:
