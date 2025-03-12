@@ -1,39 +1,3 @@
-Estrofe 1, verso 2
- - Versão 1: Que da Occidental praya Lusitana,
- - Versão 2: Que da Occidental praya Lusi-tana,
-
-Estrofe 1, verso 3
- - Versão 1: Por mares, nunca de antes na-uegados,
- - Versão 2: Por mares nunca de antes na-uegados,
-
-Estrofe 1, verso 6
- - Versão 1: Mais do que prometia a força humana:
- - Versão 2: Mais do que prometia a força humana.
-
-Estrofe 1, verso 7
- - Versão 1: Entre gente remota edificáram
- - Versão 2: E entre gente remota edificarão
-
-Estrofe 1, verso 8
- - Versão 1: Nouo Reino, que tanto sublimáram.
- - Versão 2: Nouo Reino, que tanto sublimarão.
-
-Estrofe 2, verso 2
- - Versão 1: Daquelles Reis, que foram dilatando
- - Versão 2: Daquelles Reis, que forão dilatando
-
-Estrofe 2, verso 3
- - Versão 1: A Fee, o Imperio, & as terras viciosas
- - Versão 2: A Fee, o lmperio, & as terras viciosas
-
-Estrofe 2, verso 4
- - Versão 1: De Africa, & de Asia, andaram deuastãdo
- - Versão 2: De Affrica, & de Asia, andarão devastando,
-
-Estrofe 2, verso 8
- - Versão 1: Se a tanto me ajudar o eugenho & arte.
- - Versão 2: Se a tanto me ajudar o engenho & arte.
-
 Estrofe 3, verso 2
  - Versão 1: As nauegações grandes que fizeram:
  - Versão 2: As nauegações grandes que fizerão:
@@ -49,10 +13,6 @@ Estrofe 3, verso 4
 Estrofe 3, verso 6
  - Versão 1: A quem Neptuno, & Marte obedecéram:
  - Versão 2: A quem Neptuno, & Marte obedeçerão:
-
-Estrofe 3, verso 7
- - Versão 1: Cesse tudoo que a Musa antigua canta,
- - Versão 2: Cesse tudo o que a Musa antigua canta,
 
 Estrofe 4, verso 3
  - Versão 1: Se sempre em verso humilde celebrado,
@@ -164,7 +124,7 @@ Estrofe 13, verso 6
 
 Estrofe 13, verso 7
  - Versão 1: Outro Ioanne, inuicto caualleiro,
- - Versão 2: Outro loane, invicto cavalleiro,
+ - Versão 2: Outro Ioane, invicto caualleiro,
 
 Estrofe 14, verso 2
  - Versão 1: Aquelles que nos Remos la da Aurora,
@@ -292,7 +252,7 @@ Estrofe 23, verso 6
 
 Estrofe 23, verso 7
  - Versão 1: Quando Iupiter alto assi dizendo,
- - Versão 2: Quando lupiter alto assy dizendo,
+ - Versão 2: Quando Iupiter alto assy dizendo,
 
 Estrofe 23, verso 8
  - Versão 1: Cum tom de voz começa, graue & horendo.
@@ -394,17 +354,9 @@ Estrofe 29, verso 8
  - Versão 1: Começáram a seguir sua longa rota.
  - Versão 2: Tornarão a seguir sua longa rata:
 
-Estrofe 30, verso 1
- - Versão 1: Estas palauras Iupiter dezia,
- - Versão 2: Estas palauras lupiter dezia,
-
 Estrofe 30, verso 2
  - Versão 1: Quando os Deoses per ordem respondendo,
  - Versão 2: Quando os Deoses por ordem respondendo,
-
-Estrofe 30, verso 6
- - Versão 1: No que Iupiter disse, conhecendo
- - Versão 2: No que lupiter disse, conhecendo
 
 Estrofe 30, verso 7
  - Versão 1: Que esqueceram seus feitos no Oriente,
@@ -456,11 +408,11 @@ Estrofe 34, verso 1
 
 Estrofe 34, verso 2
  - Versão 1: E mais, porque das Parças claro entende
- - Versão 2: E mais, porque das Parcas daro entende
+ - Versão 2: E mais, porque das Parcas claro entende
 
 Estrofe 34, verso 5
  - Versão 1: Assi que hum pela infamia que arrecea
- - Versão 2: Assi que hum pela infama que arrecea,
+ - Versão 2: Assi que hum pela infamia que arrecea,
 
 Estrofe 34, verso 6
  - Versão 1: E o outro pelas honras que pretende,
@@ -498,10 +450,6 @@ Estrofe 37, verso 1
  - Versão 1: Aviseira do elmo de Diamante,
  - Versão 2: A viseira do elmo de Diamante,
 
-Estrofe 37, verso 4
- - Versão 1: De Iupiter, armado, forte & duro:
- - Versão 2: De lupiter, armado, forte & duro:
-
 Estrofe 38, verso 1
  - Versão 1: E disse assi, ò Padre a cujo imperio,
  - Versão 2: E disse assi, ò padre a cujo imperio,
@@ -512,15 +460,11 @@ Estrofe 38, verso 5
 
 Estrofe 38, verso 6
  - Versão 1: Como ha ja tanto tempo que ordenaste.
- - Versão 2: somo ha ja tanto tempo que ordenaste
+ - Versão 2: Como ha ja tanto tempo que ordenaste
 
 Estrofe 38, verso 7
  - Versão 1: Nam ouças mais, pois es juiz direito,
  - Versão 2: Não ouças mais, pois es juyz direito,
-
-Estrofe 38, verso 8
- - Versão 1: Razões de quem parece que he sospeito.
- - Versão 2: Razões de quem pareçe que he sospeito.
 
 Estrofe 39, verso 1
  - Versão 1: Que se aqui a razam se nam mostrasse,
@@ -654,10 +598,6 @@ Estrofe 48, verso 5
  - Versão 1: A gente, & marinheiros trabalhauam,
  - Versão 2: A gente, & marinheiros trabalhauão,
 
-Estrofe 48, verso 7
- - Versão 1: Tomão vellas, amainase a verga alta,
- - Versão 2: Tomão vellas, amamase a verga alta,
-
 Estrofe 49, verso 1
  - Versão 1: Nam erão ancorados, quando a gente
  - Versão 2: Não erão ancorados, quando a gente
@@ -694,10 +634,6 @@ Estrofe 50, verso 6
  - Versão 1: As discretas repostas que conuinham:
  - Versão 2: As discretas repostas que conuinhão.
 
-Estrofe 50, verso 7
- - Versão 1: Os Portugueses somos do Occidente,
- - Versão 2: Os Portugueses somos do Occidente
-
 Estrofe 50, verso 8
  - Versão 1: Himos buicando as terras do Oriente:
  - Versão 2: Himos buscando a terras do Oriente.
@@ -709,14 +645,6 @@ Estrofe 51, verso 2
 Estrofe 51, verso 3
  - Versão 1: Toda a costa Africana rodeado,
  - Versão 2: Toda a costa Affricana rodeado,
-
-Estrofe 51, verso 8
- - Versão 1: Mas no lago entraremos de Acheronte.
- - Versão 2: Mas no lago entraremos de Acheronte:
-
-Estrofe 52, verso 2
- - Versão 1: A terra Oriental, que o Indo rega,
- - Versão 2: A terra Oriental, que o lndo rega,
 
 Estrofe 52, verso 3
  - Versão 1: Por elle o Mar remoto navegamos,
@@ -742,10 +670,6 @@ Estrofe 53, verso 5
  - Versão 1: Nos temos a Lei certa que ensinou,
  - Versão 2: Nos temos a Lei certa que insinou,
 
-Estrofe 54, verso 3
- - Versão 1: De todos os que as Ondas nauegamos,
- - Versão 2: De todos os que as Ondas navegamos,
-
 Estrofe 54, verso 8
  - Versão 1: Chamase a pequena llha Moçambique.
  - Versão 2: Chamase a pequena Ilha Moçambique.
@@ -770,21 +694,13 @@ Estrofe 57, verso 5
  - Versão 1: Qualquer entam consigo cuyda, & nota
  - Versão 2: Qualquer então consigo cuyda, & nota
 
-Estrofe 57, verso 6
- - Versão 1: Na gente, & na maneira desusada.
- - Versão 2: Nagente, & na maneira desusada.
-
 Estrofe 57, verso 7
  - Versão 1: E como os que na errada Seita crèrão,
  - Versão 2: E como os que na errada Seita crêrão
 
 Estrofe 57, verso 8
  - Versão 1: Tanto por todo o mundo se estendèram.
- - Versão 2: Tanto por todo o muindlo se estendêrão.
-
-Estrofe 58, verso 1
- - Versão 1: Da Lũa os claros rayos rutilauão,
- - Versão 2: Da Lũa os claros rayos rutilavão,
+ - Versão 2: Tanto por todo o muindo se estendêrão.
 
 Estrofe 58, verso 8
  - Versão 1: Como por longo, tempo costumaua.
@@ -798,10 +714,6 @@ Estrofe 59, verso 6
  - Versão 1: E de toldos alegres se adornou:
  - Versão 2: E de todos alegres se adornou:
 
-Estrofe 60, verso 1
- - Versão 1: Partia alegremente nauegando,
- - Versão 2: Partia alegremente navegando,
-
 Estrofe 60, verso 5
  - Versão 1: Que os apousentos Caspios habitando.
  - Versão 2: Que os apousentos Caspios habitando,
@@ -809,10 +721,6 @@ Estrofe 60, verso 5
 Estrofe 60, verso 8
  - Versão 1: O Imperio tomáram a Costantino.
  - Versão 2: O Imperio tomarão a Costantino.
-
-Estrofe 61, verso 1
- - Versão 1: Recebe o Capitão alegremente,
- - Versão 2: Recebe o Cãpitão alegremente,
 
 Estrofe 61, verso 6
  - Versão 1: Nam vsado licor que dá alegria.
@@ -840,11 +748,7 @@ Estrofe 62, verso 8
 
 Estrofe 63, verso 2
  - Versão 1: Os liuros de sua ley, preceito, ou fè,
- - Versão 2: Os livros de sua ley, preceito, ou fê,
-
-Estrofe 63, verso 3
- - Versão 1: Pera ver se conforme à sua seja,
- - Versão 2: Pergver se conforme à sua seja,
+ - Versão 2: Os liuros de sua ley, preceito, ou fê,
 
 Estrofe 63, verso 6
  - Versão 1: Ao Capitão pedia, que lhe dè,
@@ -858,10 +762,6 @@ Estrofe 64, verso 2
  - Versão 1: Por hum que a lingoa escura bem sabia:
  - Versão 2: Por hum que a lingoa escura bem sabia.
 
-Estrofe 65, verso 4
- - Versão 1: Tudo o que sente, & todo o insensibil
- - Versão 2: Tudo o que sente, & todo o isensibil
-
 Estrofe 65, verso 8
  - Versão 1: Por sobir os mortais da terra ao ceo.
  - Versão 2: Por subir os mortais da terra ao ceo.
@@ -870,14 +770,6 @@ Estrofe 66, verso 2
  - Versão 1: Os liuros que tu pedes nam trazia,
  - Versão 2: Os Liuros que tu pedes, nam trazia,
 
-Estrofe 66, verso 3
- - Versão 1: Que bem posso escusar trazer escripto
- - Versão 2: Que hem posso escusar trazer escripto
-
-Estrofe 66, verso 4
- - Versão 1: Em papel, o que na alma andar deuia.
- - Versão 2: Em papel, o que na alma andar devia.
-
 Estrofe 67, verso 8
  - Versão 1: Partasanas agudàs, chuças brauas,
  - Versão 2: Partasanas agudas, chuças brauas.
@@ -885,10 +777,6 @@ Estrofe 67, verso 8
 Estrofe 68, verso 2
  - Versão 1: As panellas sulfuneas, tam danosas,
  - Versão 2: As panellas sulfureas, tam danosas,
-
-Estrofe 69, verso 2
- - Versão 1: E de tudo o que vio, com olho atento,
- - Versão 2: E de tudo a que vio, com olho atento,
 
 Estrofe 69, verso 4
  - Versão 1: Hũa vontade má de pensamento.
@@ -920,7 +808,7 @@ Estrofe 72, verso 5
 
 Estrofe 72, verso 8
  - Versão 1: Se foy o Mouro ao cognito aposento.
- - Versão 2: Se foy o Mouro ao coguito apousento:
+ - Versão 2: Se foy o Mouro ao cognito apousento:
 
 Estrofe 73, verso 1
  - Versão 1: Do claro assento Etereo, o gram Tebano,
@@ -930,21 +818,13 @@ Estrofe 73, verso 2
  - Versão 1: Que da paternal coxa foy nascido,
  - Versão 2: Que da paternal coxa foy nascido
 
-Estrofe 73, verso 8
- - Versão 1: Consigo estas palauras praticaua.
- - Versão 2: Consigo estas palavras praticaua.
-
-Estrofe 74, verso 2
- - Versão 1: Que tamanhas victorias tam famosas,
- - Versão 2: Que tamanhas victorius tam famosas,
-
 Estrofe 74, verso 3
  - Versão 1: Ajam os Portugueses alcansado,
  - Versão 2: Ajão os Portugueses alcançado,
 
 Estrofe 74, verso 8
  - Versão 1: Outrem, porquem meu nome se escureça?
- - Versão 2: Qutrem, por quem meu nome se escureça?
+ - Versão 2: Outrem, por quem meu nome se escureça?
 
 Estrofe 75, verso 3
  - Versão 1: Tanto poder, que tudo fometesse
@@ -953,10 +833,6 @@ Estrofe 75, verso 3
 Estrofe 75, verso 4
  - Versão 1: Debaixo de seu jugo, o fero Marte:
  - Versão 2: Debaixo do seu jugo, o fero Marte:
-
-Estrofe 76, verso 8
- - Versão 1: Quem do oportuno tempo se aproueita.
- - Versão 2: Quem do oportuno tempo se aproueita:
 
 Estrofe 78, verso 6
  - Versão 1: Correndo a fama veio, que roubadas
@@ -992,7 +868,7 @@ Estrofe 81, verso 1
 
 Estrofe 81, verso 7
  - Versão 1: Que os leue aonde sejam destruydos,
- - Versão 2: Que os leve aonde sejão destruydos,
+ - Versão 2: Que os leue aonde sejão destruydos,
 
 Estrofe 81, verso 8
  - Versão 1: Desbaratados, mortos, ou perdidos.
@@ -1032,11 +908,7 @@ Estrofe 85, verso 6
 
 Estrofe 86, verso 7
  - Versão 1: E porque o caso leve selhe faça,
- - Versão 2: E porque o caso leve se lhe faça,
-
-Estrofe 87, verso 5
- - Versão 1: Nam soffre muito a gente generosa,
- - Versão 2: Nam sosfre muito agente generosa,
+ - Versão 2: E porque o caso leue se lhe faça,
 
 Estrofe 88, verso 3
  - Versão 1: O Touro busca, & pondose diante,
@@ -1070,10 +942,6 @@ Estrofe 91, verso 5
  - Versão 1: Ia a llha, & todo o mais, desemparando,
  - Versão 2: Ia a Ilha, & todo o mais, desemparando,
 
-Estrofe 91, verso 8
- - Versão 1: Que a Ilha em torno cerca, em pouco espaço.
- - Versão 2: Que a Ilha em torno certa, em pouco espaço.
-
 Estrofe 92, verso 1
  - Versão 1: Hũs vão nas almàdias carregadas,
  - Versão 2: Hũs vão nas almádias carregadas,
@@ -1094,10 +962,6 @@ Estrofe 95, verso 1
  - Versão 1: O Capitam, que ja lhe entam conuinha,
  - Versão 2: O Capitão, que ja lhe entam conuinha,
 
-Estrofe 95, verso 4
- - Versão 1: Pera yr buscar o Indo desejado.
- - Versão 2: Pera yr buscar o lndo desejado.
-
 Estrofe 95, verso 7
  - Versão 1: E respondendo ao mensageiro, atento
  - Versão 2: E respondendo ao mensageiro, a tento
@@ -1116,7 +980,7 @@ Estrofe 96, verso 8
 
 Estrofe 97, verso 2
  - Versão 1: Que o maléuolo Baco lhe ensinàra
- - Versão 2: Que o malévolo Baco lhe ensinára
+ - Versão 2: Que o maléuolo Baco lhe ensinára
 
 Estrofe 97, verso 5
  - Versão 1: Dando razam dos portos Indianos,
@@ -1129,22 +993,6 @@ Estrofe 97, verso 6
 Estrofe 98, verso 1
  - Versão 1: E dizlhe mais co falso pensamento,
  - Versão 2: E diz lhe mais co falso pensamento,
-
-Estrofe 98, verso 3
- - Versão 1: Que perto està hũa Ilha, cujo assento,
- - Versão 2: Que perto esta hũa Ilha, cujo assento,
-
-Estrofe 98, verso 5
- - Versão 1: O Capitão que a tudo estaua a tento,
- - Versão 2: O Capitão que a tudo estaua atento,
-
-Estrofe 98, verso 8
- - Versão 1: Que o leue aa terra onde esta gente estaua.
- - Versão 2: Que o leve aa terra onde esta gente estaua.
-
-Estrofe 99, verso 5
- - Versão 1: Aqui o engano & morte lhe imagina,
- - Versão 2: Aqui o engano & morte lhe inagina,
 
 Estrofe 99, verso 6
  - Versão 1: Porque em poder e forças muito excede
@@ -1166,10 +1014,6 @@ Estrofe 100, verso 5
  - Versão 1: Nam consente que em terra tam remota
  - Versão 2: Não consente que em terra tão remota
 
-Estrofe 100, verso 8
- - Versão 1: Donde o Piloto falso a leua, & guia.
- - Versão 2: Donde o Pileto falso a leua, & guia.
-
 Estrofe 101, verso 2
  - Versão 1: Tal determinaçam leuar a vante,
  - Versão 2: Tal determinação leuar auante,
@@ -1177,10 +1021,6 @@ Estrofe 101, verso 2
 Estrofe 101, verso 8
  - Versão 1: Eram Christãos com Mouros juntamente.
  - Versão 2: Erão Christãos com Mouros juntamente.
-
-Estrofe 102, verso 2
- - Versão 1: Como por regimento em fim leuaua,
- - Versão 2: Como por regimento em fim levaua,
 
 Estrofe 102, verso 3
  - Versão 1: Que aqui gente de Christo nam auia:
@@ -1198,14 +1038,6 @@ Estrofe 103, verso 1
  - Versão 1: Estaua a llha aà terra tam chegada,
  - Versão 2: Estaua a Ilha aa terra tam chegada,
 
-Estrofe 103, verso 6
- - Versão 1: Como por fora, ao longe descobria,
- - Versão 2: Como por fora, ao linge descobria,
-
-Estrofe 103, verso 8
- - Versão 1: Mombaça he o nome da Ilha, & da Cidade.
- - Versão 2: Mombaça he o uome da Ilha, & da Cidade.
-
 Estrofe 104, verso 1
  - Versão 1: E sendo a ella o Capitam chegado,
  - Versão 2: E sendo a ella o Capitão chegado,
@@ -1213,10 +1045,6 @@ Estrofe 104, verso 1
 Estrofe 104, verso 3
  - Versão 1: De poderver o pouo baptizado,
  - Versão 2: De poder ver o pouo baptizado,
-
-Estrofe 104, verso 6
- - Versão 1: Do Rei, que ja sabia a gente que era,
- - Versão 2: Do Rei, que ja sabia a gente que cra,
 
 Estrofe 105, verso 2
  - Versão 1: Mas debaxo qveneno vem cuberto,
