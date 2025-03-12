@@ -1,5 +1,8 @@
+# Código gerado pelo ChatGPT para comparar duas versões do texto dos Lusíadas.
+
 import xml.etree.ElementTree as ET
 import re
+import csv
 
 def limpar_texto(texto):
     """Remove espaços extras e normaliza quebras de linha no texto."""
@@ -41,15 +44,17 @@ def comparar_arquivos(arquivo1, arquivo2, saida):
         v2 = versos2[chave]
         
         if v1 != v2:
-            diferencas.append(f"Estrofe {chave[0]}, verso {chave[1]}\n - Versão 1: {v1}\n - Versão 2: {v2}\n")
+            diferencas.append([f"Estrofe {chave[0]}, verso {chave[1]}", v1, v2])
     
-    with open(saida, "w", encoding="utf-8") as f:
-        f.writelines("\n".join(diferencas))
+    with open(saida, "w", encoding="utf-8", newline="") as f:
+        writer = csv.writer(f, delimiter=";")
+        writer.writerow(["Estrofe e Verso", "Versão 1", "Versão 2"])
+        writer.writerows(diferencas)
     
     print(f"Comparação concluída. Diferenças salvas em {saida}")
 
 # Exemplo de uso
 arquivo1 = "LusiadasDireita.xml"
 arquivo2 = "LusiadasEsquerda.xml"
-saida = "diferencas.txt"
+saida = "diferencas.csv"
 comparar_arquivos(arquivo1, arquivo2, saida)
