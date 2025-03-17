@@ -1,0 +1,1801 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?>
+<?xml-model href="tei_Lusiadas.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<ns0:TEI xmlns:ns0="http://www.tei-c.org/ns/1.0">
+    <ns0:teiHeader>
+        <ns0:fileDesc>
+            <ns0:titleStmt>
+                <ns0:title>Os Lusíadas</ns0:title>
+                <ns0:author>Luís de Camões</ns0:author>
+            </ns0:titleStmt>
+            <ns0:publicationStmt>
+                <ns0:publisher>António Gonçalves</ns0:publisher>
+                <ns0:date>1572</ns0:date>
+                <ns0:pubPlace>Lisboa</ns0:pubPlace>
+            </ns0:publicationStmt>
+            <ns0:sourceDesc>
+                <ns0:p>Este arquivo contém duas versões da edição de Os Lusíadas.
+                    V1 é a edição com o pelicano à direita.
+                    V2 é a edição com o pelicano à esquerda.</ns0:p>
+            </ns0:sourceDesc>
+        </ns0:fileDesc>
+    </ns0:teiHeader>
+    <ns0:text>
+        <ns0:body>
+            <ns0:lg n="1">
+                <ns0:l>AS armas, &amp; os ba-rões assinalados,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Que da Occidental praya Lusitana,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Que da Occidental praya Lusi-tana,</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Por mares, nunca de antes na-uegados,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Por mares nunca de antes na-uegados,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Passaram, ainda alem da Taprobana,</ns0:l>
+                <ns0:l>Em perigos, &amp; guerras esforçados,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Mais do que prometia a força humana:</ns0:rdg>
+                    <ns0:rdg wit="#V2">Mais do que prometia a força humana.</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Entre gente remota edificáram</ns0:rdg>
+                    <ns0:rdg wit="#V2">E entre gente remota edificarão</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Nouo Reino, que tanto sublimáram.</ns0:rdg>
+                    <ns0:rdg wit="#V2">Nouo Reino, que tanto sublimarão.</ns0:rdg>
+                </ns0:app>
+            </ns0:lg>
+            <ns0:lg n="2">
+                <ns0:l>E tambem as memorias gloriosas</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Daquelles Reis, que foram dilatando</ns0:rdg>
+                    <ns0:rdg wit="#V2">Daquelles Reis, que forão dilatando</ns0:rdg>
+                </ns0:app>
+                <ns0:l>A Fee, o Imperio, &amp; as terras viciosas</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">De Africa, &amp; de Asia, andaram deuastãdo</ns0:rdg>
+                    <ns0:rdg wit="#V2">De Affrica, &amp; de Asia, andarão devastando,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>E aquelles que por obras valerosas</ns0:l>
+                <ns0:l>Se vão da ley da Morte libertando.</ns0:l>
+                <ns0:l>Cantando espalharey por toda parte,</ns0:l>
+                <ns0:l>Se a tanto me ajudar o engenho &amp; arte.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="3">
+                <ns0:l>Cessem do sabio Grego, &amp; do Troyano,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">As nauegações grandes que fizeram:</ns0:rdg>
+                    <ns0:rdg wit="#V2">As nauegações grandes que fizerão:</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Callese de Alexandro, &amp; de Trajano</ns0:rdg>
+                    <ns0:rdg wit="#V2">Callese de Alexandro, &amp; de Trajano,</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">A fama das victorias que tiueram,</ns0:rdg>
+                    <ns0:rdg wit="#V2">A fama das victorias que tiuerão,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Que eu canto o peyto illustre Lusitano,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">A quem Neptuno, &amp; Marte obedecéram:</ns0:rdg>
+                    <ns0:rdg wit="#V2">A quem Neptuno, &amp; Marte obedeçerão:</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Cesse tudo o que a Musa antigua canta,</ns0:l>
+                <ns0:l>Que outro valor mais alto se aleuanta.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="4">
+                <ns0:l>E vos Tagides minhas, pois criado</ns0:l>
+                <ns0:l>Tendes em my hum nouo engenho ardente,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Se sempre em verso humilde celebrado,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Se sempre em verso humilde, celebrado</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Foy de my vosso rio alegremente,</ns0:l>
+                <ns0:l>Daime agora hum som alto, &amp; sublimado,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Hum estillo grandiloco, &amp; corrente:</ns0:rdg>
+                    <ns0:rdg wit="#V2">Hum estillo grandiloco, &amp; corrente,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Porque de vossas agoas Phebo ordene,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Que nam tenham enueja ás de Hypocrene.</ns0:rdg>
+                    <ns0:rdg wit="#V2">Que não tenhão enueja aas de Hypocrene.</ns0:rdg>
+                </ns0:app>
+            </ns0:lg>
+            <ns0:lg n="5">
+                <ns0:l>Daime hũa furia grande &amp; sonorosa,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">E nam de agreste a vena, ou frauta ruda:</ns0:rdg>
+                    <ns0:rdg wit="#V2">E não de agreste a vena, ou frauta ruda:</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Mas de tuba canora &amp; belicosa,</ns0:l>
+                <ns0:l>Que o peito acende, &amp; a cor ao gesto muda:</ns0:l>
+                <ns0:l>Daime igoal canto aos feitos da famosa</ns0:l>
+                <ns0:l>Gente vossa, que a Marte tanto ajuda:</ns0:l>
+                <ns0:l>Que se espalhe &amp; se cante no vniuerso,</ns0:l>
+                <ns0:l>Se tam sublime preço cabe em verso.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="6">
+                <ns0:l>E vos ò bem nascida segurança</ns0:l>
+                <ns0:l>Da Lusitana antigua liberdade,</ns0:l>
+                <ns0:l>E não menos certissima esperança,</ns0:l>
+                <ns0:l>De aumento da pequena Christandade:</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Vos ò nouo temor da Maura lança,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Vos o nouo temor da Maura lança,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Marauilha fatal da nossa idade:</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Dada ao mundo por Deos que todo o mande,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Dada ao mundo por Deos q̃ todo o mande,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Pera do mundo a Deos dar parte grande.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="7">
+                <ns0:l>Vos tenrro, &amp; nouo ramo florecente,</ns0:l>
+                <ns0:l>De hũa aruore de Christo mais amada</ns0:l>
+                <ns0:l>Que nenhũa nascida no Occidente,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Cesaria, ou Christianissima chamada:</ns0:rdg>
+                    <ns0:rdg wit="#V2">Cesarea, ou Christianissima chamada:</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Vedeo no vosso escudo, que presente</ns0:l>
+                <ns0:l>Vos amostra a victoria ja passada.</ns0:l>
+                <ns0:l>Na qual vos deu por armas, &amp; deixou</ns0:l>
+                <ns0:l>As que elle pera si na Cruz tomou.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="8">
+                <ns0:l>Vos poderoso Rei, cujo alto Imperio,</ns0:l>
+                <ns0:l>O Sol logo em nascendo ve primeiro:</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Veo tambem no meyo do Hemispherio,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Veo tambem no meio do Hemispherio,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>E quando dece o deixa derradeiro.</ns0:l>
+                <ns0:l>Vos que esperamos jugo &amp; vituperio,</ns0:l>
+                <ns0:l>Do torpe Ismaelita caualleiro:</ns0:l>
+                <ns0:l>Do Turco Oriental, &amp; do Gentio,</ns0:l>
+                <ns0:l>Que inda bebe o licor do sancto Rio.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="9">
+                <ns0:l>Inclinay por hum pouco a magestade,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Que nesse tenro gesto vos contemplo,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Que nesse tenrro gesto vos contemplo,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Que ja se mostra, qual na inteira idade,</ns0:l>
+                <ns0:l>Quando sobindo yreis ao eterno templo,</ns0:l>
+                <ns0:l>Os olhos da real benignidade</ns0:l>
+                <ns0:l>Ponde no chão: vereis hum nouo exemplo,</ns0:l>
+                <ns0:l>De amor, dos patrios feitos valerosos,</ns0:l>
+                <ns0:l>Em versos deuulgado numerosos.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="10">
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Vereis amor da patria, nam mouido</ns0:rdg>
+                    <ns0:rdg wit="#V2">Vereis amor da patria, não mouido</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">De premio vil: mas alto, &amp; quasi eterno,</ns0:rdg>
+                    <ns0:rdg wit="#V2">De premio vil: mas alto, &amp; quasi eterno</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Que nam he premio vil ser conhecido,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Que nam he premio vil, ser conhecido</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Por hum pregam do ninho meu paterno.</ns0:rdg>
+                    <ns0:rdg wit="#V2">Por hum pregão do ninho meu paterno.</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Ouui vereis o nome engrandecido</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Daquelles de quem sois senhor superno:</ns0:rdg>
+                    <ns0:rdg wit="#V2">Daquelles de quem sois senhor superno.</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">E julgareis qual he mais excellente,</ns0:rdg>
+                    <ns0:rdg wit="#V2">E julgareis qual he mais excelente,</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Se ser do mundo Rei, se de tal gente.</ns0:rdg>
+                    <ns0:rdg wit="#V2">Se ser do mundo Rei, se de tal gente:</ns0:rdg>
+                </ns0:app>
+            </ns0:lg>
+            <ns0:lg n="11">
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Ouui, que nam vereis com vãs façanhas,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Ouui, que não vereis com vãs façanhas</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Fantasticas, fingidas, mentirosas,</ns0:l>
+                <ns0:l>Louuar os vossos, como nas estranhas</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Musas, de engrandecerse desejosas:</ns0:rdg>
+                    <ns0:rdg wit="#V2">Musas, de engrandecerse desejosas,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>As verdadeiras vossas sam tamanhas,</ns0:l>
+                <ns0:l>Que excedem as sonhadas fabulosas:</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Que excedem Rodamõte, &amp; o vão Rugeiro,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Que excedem Rodamonte, &amp; o vão Rugeiro,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>E Orlando, inda que fora verdadeiro.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="12">
+                <ns0:l>Por estes vos darey hum Nuno fero,</ns0:l>
+                <ns0:l>Que fez ao Rei, &amp; ao Reino tal seruiço,</ns0:l>
+                <ns0:l>Hum Egas, &amp; hũ dom Fuas, q̃ de Homero</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">A Citera parelles so cobiço:</ns0:rdg>
+                    <ns0:rdg wit="#V2">A Citara parelles so cobiço:</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Pois polos doze Pares daruos quero,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Pois polos doze pares daruos quero,</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Os doze de Inglaterra, &amp; o seu Magriço:</ns0:rdg>
+                    <ns0:rdg wit="#V2">Os doze de Inglaterra, &amp; o seu Magriço.</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Douuos tambem aquelle illustre Gama</ns0:rdg>
+                    <ns0:rdg wit="#V2">Douuos tambem aquelle illustre Gama,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Que para si de Eneas toma a fama.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="13">
+                <ns0:l>Pois se a troco de Carlos Rei de França,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Ou de Cesar, quereis igual memoria,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Ou de Cesar, quereis igual memoria:</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Vede o primeiro Afonso, cuja lança</ns0:l>
+                <ns0:l>Escura faz qualquer estranha gloria:</ns0:l>
+                <ns0:l>E aquelle que a seu Reino a segurança</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Deixou, com a grande &amp; prospera victoria:</ns0:rdg>
+                    <ns0:rdg wit="#V2">Deixou, com a grande &amp; prospera victoria.</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Outro Ioanne, inuicto caualleiro,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Outro Ioane, invicto caualleiro,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>O quarto, &amp; quinto Afonsos, &amp; o terceiro.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="14">
+                <ns0:l>Nem deixarão meus versos esquecidos,</ns0:l>
+                <ns0:l>Aquelles que nos Reinos la da Aurora,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Se fizeram por armas tam subidos,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Se fizerão por armas tam subidos,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Vossa bandeira sempre vencedora.</ns0:l>
+                <ns0:l>Hum Pacheco fortissimo, &amp; os temidos</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Almeidas, por quem sempre o Tejo chora:</ns0:rdg>
+                    <ns0:rdg wit="#V2">Almeidas, por quem sempre o Tejo chora.</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Albuquerque terribil, Castro forte,</ns0:l>
+                <ns0:l>E outros em quem poder não teue a morte.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="15">
+                <ns0:l>E em quanto eu estes canto, &amp; a vos nam posso</ns0:l>
+                <ns0:l>Sublime Rei, que nam me atreuo a tanto,</ns0:l>
+                <ns0:l>Tomay as redeas vos do Reino vosso,</ns0:l>
+                <ns0:l>Dareis materia a nunca ouuido canto:</ns0:l>
+                <ns0:l>Comecem a sentir o peso grosso,</ns0:l>
+                <ns0:l>(Que polo mundo todo faça espanto,)</ns0:l>
+                <ns0:l>De exercitos, &amp; feitos singulares,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">De Africa as terras, &amp; do Oriẽte os mares.</ns0:rdg>
+                    <ns0:rdg wit="#V2">De Affrica as terras, &amp; do Oriente os mares.</ns0:rdg>
+                </ns0:app>
+            </ns0:lg>
+            <ns0:lg n="16">
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Em vòs os olhos tem o Mouro frio,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Em vos os olhos tem o Mouro frio,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Em quem vè seu exicio afigurado,</ns0:l>
+                <ns0:l>So com vos ver o barbaro Gentio,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Mostra o pescoço ao jugo ja inclinado,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Mostra o pescoço ao jugo ja inclinado:</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Thetis todo o ceruleo senhorio,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Tem pera vòs por dote aparelhado:</ns0:rdg>
+                    <ns0:rdg wit="#V2">Tem pera vos por dote aparelhado:</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Que affeiçoada ao gesto bello, &amp; tenro,</ns0:l>
+                <ns0:l>Deseja de compraruos pera genro.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="17">
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Em vôs se vem da Olimpica morada,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Em vos se vem da Olimpica morada,</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Dos dous auòs, as almas ca famosas,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Dos dous auôs, as almas ca famosas,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Hũa na paz Angelica dourada,</ns0:l>
+                <ns0:l>Outra polas batalhas sanguinosas:</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Em vòs esperam, verse renouada</ns0:rdg>
+                    <ns0:rdg wit="#V2">Em vos esperão, verse renouada</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Sua memoria, &amp; obras valerosas.</ns0:l>
+                <ns0:l>E la vos tem lugar no fim da idade,</ns0:l>
+                <ns0:l>No templo da suprema eternidade.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="18">
+                <ns0:l>Mas em quanto este tempo passa lento,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">De regerdes os pouos, que o desejam:</ns0:rdg>
+                    <ns0:rdg wit="#V2">De regerdes os pouos, que o desejão:</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Day vos fauor ao nouo atreuimento,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Pera que estes meus versos vossos sejam:</ns0:rdg>
+                    <ns0:rdg wit="#V2">Pera que estes meus versos vossos sejão:</ns0:rdg>
+                </ns0:app>
+                <ns0:l>E vereis ir cortando o salso argento:</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Os vossos Argonautas, porque vejam,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Os vossos Argonautas, porque vejão,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Que sam vistos de vos no mar yrado,</ns0:l>
+                <ns0:l>E costumaiuos ja a ser inuocado.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="19">
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Ia no largo Occeano nauegauam,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Ia no largo Occeano nauegauão,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>As inquietas ondas apartando,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Os ventos brandamente respirauam,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Os ventos brandamente respirauão,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Das naos as vellas concauas inchando:</ns0:l>
+                <ns0:l>Da branca escuma, os mares se mostrauão</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Cubertos, onde as proas vam cortando,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Cubertos, onde as proas vão cortando.</ns0:rdg>
+                </ns0:app>
+                <ns0:l>As maritimas agoas consagradas,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Que do gado de Proteo sam cortadas:</ns0:rdg>
+                    <ns0:rdg wit="#V2">Que do gado de Proteo sam cortadas.</ns0:rdg>
+                </ns0:app>
+            </ns0:lg>
+            <ns0:lg n="20">
+                <ns0:l>Quando os Deoses no Olimpo luminoso,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Onde o gouerno està da humana gente,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Onde o governo està, da humana gente</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Se ajuntam em consilio glorioso,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Se ajuntão em consilio glorioso,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Sobre as cousas futuras do Oriente:</ns0:l>
+                <ns0:l>Pisando o cristalino Ceo fermoso,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Vem pela via Lactea, juntamente,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Vem pela via Lactea, juntamente</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Conuocados da parte de Tonante,</ns0:l>
+                <ns0:l>Pelo Neto gentil do velho Atlante.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="21">
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Deixam dos sete Ceos o regimento,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Deixão dos sete Ceos o regimento,</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Que do poder mais alto lhe foy dado,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Que do poder mais alto lhe foi dado,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Alto poder, que so co pensamento</ns0:l>
+                <ns0:l>Gouerna o Ceo, a Terra, &amp; o Mar yrado:</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Ali se acháram juntos num momento,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Ali se acharão juntos num momento,</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Os que habitam o Arcturo congelado.</ns0:rdg>
+                    <ns0:rdg wit="#V2">Os que habitão o Arcturo congelado.</ns0:rdg>
+                </ns0:app>
+                <ns0:l>E os que o Austro tem, &amp; as partes onde</ns0:l>
+                <ns0:l>A Aurora nasce, &amp; o claro Sol se esconde.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="22">
+                <ns0:l>Estaua o Padre ali sublime &amp; dino,</ns0:l>
+                <ns0:l>Que vibra os feros rayos de Vulcano,</ns0:l>
+                <ns0:l>Num assento de estrellas cristalino,</ns0:l>
+                <ns0:l>Com gesto alto, seuero, &amp; soberano,</ns0:l>
+                <ns0:l>Do rosto respiraua hum ar diuino,</ns0:l>
+                <ns0:l>Que diuino tornàra hum corpo humano:</ns0:l>
+                <ns0:l>Com hũa coroa, &amp; ceptro rutilante,</ns0:l>
+                <ns0:l>De outra pedra mais clara que diamante.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="23">
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Em luzentes assentos marchetados</ns0:rdg>
+                    <ns0:rdg wit="#V2">Em luzentes assentos, marchetados</ns0:rdg>
+                </ns0:app>
+                <ns0:l>De ouro, &amp; de perlas, mais abaixo estauão</ns0:l>
+                <ns0:l>Os outros Deoses todos assentados,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Como a Razam, &amp; a Ordem concertauam:</ns0:rdg>
+                    <ns0:rdg wit="#V2">Como a Razão, &amp; a Ordem concertauão.</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Precedem os antigos mais honrados,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Precedem os antiguos mais honrrados,</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Mais abaixo os menores se assentauam:</ns0:rdg>
+                    <ns0:rdg wit="#V2">Mais abaixo os menores se assentauão:</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Quando Iupiter alto assi dizendo,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Quando Iupiter alto assy dizendo,</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Cum tom de voz começa, graue &amp; horendo.</ns0:rdg>
+                    <ns0:rdg wit="#V2">Cum tom de voz começa, graue &amp; horrendo.</ns0:rdg>
+                </ns0:app>
+            </ns0:lg>
+            <ns0:lg n="24">
+                <ns0:l>Eternos moradores do luzente</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Estelifero polo, &amp; claro assento,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Estelifero polo &amp; claro assento,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Se do grande valor da forte gente,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Do Luso, nam perdeis o pensamento,</ns0:rdg>
+                    <ns0:rdg wit="#V2">De Luso, não perdeis o pensamento,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Deueis de ter sabido claramente</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Como he dos fados grandes, certo intento,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Como he dos fados grandes certo intento</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Que por ella sesqueçam os humanos,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Que por ella sesqueção os humanos,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>De Assirios, Persas, Gregos &amp; Romanos.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="25">
+                <ns0:l>Ia lhe foy (bem o vistes) concedido</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Cum poder tam singelo, &amp; tam pequeno,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Cum poder tam singelo &amp; tam pequeno</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Tomar ao Mouro forte &amp; guarnecido,</ns0:l>
+                <ns0:l>Toda a terra que rega o Tejo ameno:</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Pois contra o Castelhano tam temido,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Pois contra o Castelhano tam temido</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Sempre alcançou fauor do Ceo sereno.</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Assi que sempre em fim com fama &amp; gloria</ns0:rdg>
+                    <ns0:rdg wit="#V2">Assi que sempre em fim com fama &amp; gloria,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Teue os tropheos pendentes da victoria.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="26">
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Deixo Deoses atras a fama antiga,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Deixo Deoses atras a fama antigua,</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Que co a gente de Romulo alcançáram,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Que co a gente de Romulo alcançarão,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Quando com Variato, na inimiga</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Guerra Romana tanto se affamáram.</ns0:rdg>
+                    <ns0:rdg wit="#V2">Guerra Romana tanto se affamarão.</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Tambem deixo a memoria que os obriga</ns0:rdg>
+                    <ns0:rdg wit="#V2">Tambem deixo a memoria, que os obriga</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">A grande nome, quando aleuantáram</ns0:rdg>
+                    <ns0:rdg wit="#V2">A grande nome, quando aleuantarão</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Hum por seu capitam, que peregrino</ns0:rdg>
+                    <ns0:rdg wit="#V2">Hum, por seu capitão, que peregrino</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Fingio na Cerua espirito diuino.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="27">
+                <ns0:l>Agora vedes bem, que cometendo,</ns0:l>
+                <ns0:l>O diuidoso mar, num lenho leue</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Por vias nunca vsadas, nam temendo</ns0:rdg>
+                    <ns0:rdg wit="#V2">Por vias nunca vsadas, não temendo</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">De Africo &amp; Noto a força a mais satreue:</ns0:rdg>
+                    <ns0:rdg wit="#V2">De Affrico &amp; Noto a força a mais satreue:</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Que auendo tanto ja que as partes vendo,</ns0:l>
+                <ns0:l>Onde o dia he comprido, &amp; onde breue.</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Inclinam seu proposito, &amp; perfia</ns0:rdg>
+                    <ns0:rdg wit="#V2">Inclinão seu proposito, &amp; perfia</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">A ver os berços, onde nasce o dia.</ns0:rdg>
+                    <ns0:rdg wit="#V2">A ver os berços, onde nasce o dia</ns0:rdg>
+                </ns0:app>
+            </ns0:lg>
+            <ns0:lg n="28">
+                <ns0:l>Prometido lhe està do fado eterno,</ns0:l>
+                <ns0:l>Cuja alta ley nam pode ser quebrada,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Que tenham longos tempos o gouerno</ns0:rdg>
+                    <ns0:rdg wit="#V2">Que tenhão longos tempos o gouerno</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Do mar, que vè do Sol a roxa entrada:</ns0:rdg>
+                    <ns0:rdg wit="#V2">Do mar, que vé do Sol a roxa entrada:</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Nas agoas tem passado o duro Inuerno,</ns0:l>
+                <ns0:l>A gente vem perdida &amp; trabalhada.</ns0:l>
+                <ns0:l>Ia parece bem feito, que lhe seja</ns0:l>
+                <ns0:l>Mostrada a noua terra que deseja.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="29">
+                <ns0:l>E porque, como vistes, tem passados</ns0:l>
+                <ns0:l>Na viagem, tam asperos perigos,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Tantos climas, &amp; ceos experimentados,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Tantos Climas &amp; Ceos experimentados,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Tanto furor de ventos inimigos</ns0:l>
+                <ns0:l>Que sejam, determino, agasalhados</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Nesta costa Africana, como amigos.</ns0:rdg>
+                    <ns0:rdg wit="#V2">Nesta costa Affricana como amigos.</ns0:rdg>
+                </ns0:app>
+                <ns0:l>E tendo guarnecida a lassa frota,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Começáram a seguir sua longa rota.</ns0:rdg>
+                    <ns0:rdg wit="#V2">Tornarão a seguir sua longa rata:</ns0:rdg>
+                </ns0:app>
+            </ns0:lg>
+            <ns0:lg n="30">
+                <ns0:l>Estas palauras Iupiter dezia,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Quando os Deoses per ordem respondendo,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Quando os Deoses por ordem respondendo,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Na sentença hum do outro difiria,</ns0:l>
+                <ns0:l>Razões diuersas dando &amp; recebendo:</ns0:l>
+                <ns0:l>O padre Baco, ali nam consentia</ns0:l>
+                <ns0:l>No que Iupiter disse, conhecendo</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Que esqueceram seus feitos no Oriente,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Que esquecerão seus feitos no Oriente,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Se la passar a Lusitana gente.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="31">
+                <ns0:l>Ouuido tinha aos Fados que viria</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Hũa gente fortissima de Hespanha</ns0:rdg>
+                    <ns0:rdg wit="#V2">Hũa gente fortissimo de Hespanha,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Pelo mar alto, a qual sojeitaria</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Da India, tudo quanto Doris banha,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Da India, tudo quanto Doris banha:</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">E com nouas victorias venceria</ns0:rdg>
+                    <ns0:rdg wit="#V2">E com nouas victorias venceria,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>A fama antiga, ou sua, ou fosse estranha.</ns0:l>
+                <ns0:l>Altamente lhe doe perder a gloria,</ns0:l>
+                <ns0:l>De que Nisa celebra inda a memoria.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="32">
+                <ns0:l>Ve que ja teue o Indo sojugado,</ns0:l>
+                <ns0:l>E nunca lhe tirou Fortuna, ou caso,</ns0:l>
+                <ns0:l>Por vencedor da India ser cantado,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">De quantos bebem a agoa de Parnaso:</ns0:rdg>
+                    <ns0:rdg wit="#V2">De quantos bebem a agoa de Parnaso.</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Teme agora que seja sepultado</ns0:rdg>
+                    <ns0:rdg wit="#V2">Teme agora que seja sepultado,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Seu tam celebre nome, em negro vaso,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Dagoa do esquecimento, se la chegam</ns0:rdg>
+                    <ns0:rdg wit="#V2">Dagoa do esquecimento, se la chegão</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Os fortes Portugueses, que nauegam.</ns0:rdg>
+                    <ns0:rdg wit="#V2">Os fortes Portugueses, que nauegão,</ns0:rdg>
+                </ns0:app>
+            </ns0:lg>
+            <ns0:lg n="33">
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Sustentaua contra elle Venus bella,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Sustentaua contra elle Venus bella</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Affeiçoada aa gente Lusitana,</ns0:l>
+                <ns0:l>Por quantas qualidades via nella,</ns0:l>
+                <ns0:l>Da antiga tam amada sua Romana,</ns0:l>
+                <ns0:l>Nos fortes corações, na grande estrella,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Que mostráram na terra Tingitana:</ns0:rdg>
+                    <ns0:rdg wit="#V2">Que mostràrão na terra Tingitana:</ns0:rdg>
+                </ns0:app>
+                <ns0:l>E na lingoa, na qual, quando imagina,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Com pouca corrupçam cre que he a Latina.</ns0:rdg>
+                    <ns0:rdg wit="#V2">Com pouca corrupção cre que he a Latina.</ns0:rdg>
+                </ns0:app>
+            </ns0:lg>
+            <ns0:lg n="34">
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Estas causas mouiam Cyterea,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Estas causas mouião Cyterea,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>E mais, porque das Parcas claro entende</ns0:l>
+                <ns0:l>Que ha de ser celebrada a clara Dea,</ns0:l>
+                <ns0:l>Onde a gente beligera se estende.</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Assi que hum pela infamia que arrecea</ns0:rdg>
+                    <ns0:rdg wit="#V2">Assi que hum pela infamia que arrecea,</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">E o outro pelas honras que pretende,</ns0:rdg>
+                    <ns0:rdg wit="#V2">E o outro polas honras que pretende,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Debatem, &amp; na perfia permanecem,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">A qualquer seus amigos fauorecem.</ns0:rdg>
+                    <ns0:rdg wit="#V2">A qualquer seus amigos fauorecem:</ns0:rdg>
+                </ns0:app>
+            </ns0:lg>
+            <ns0:lg n="35">
+                <ns0:l>Qual Austro fero, ou Boreas na espessura,</ns0:l>
+                <ns0:l>De siluestre aruoredo abastecida,</ns0:l>
+                <ns0:l>Rompendo os ramos vão da mata escura,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Com impito &amp; braueza desmedida:</ns0:rdg>
+                    <ns0:rdg wit="#V2">Com impito &amp; braueza desmedida.</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Brama toda montanha, o som murmura,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Rompense as folhas, ferue a serra erguida,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Rompense as folhas, ferue a serra erguida.</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Tal andaua o tumulto leuantado,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Entre os Deoses no Olimpo consagrado,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Entre os Deoses no Olimpo consagrado.</ns0:rdg>
+                </ns0:app>
+            </ns0:lg>
+            <ns0:lg n="36">
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Mas Marte que da Deosa sustentaua</ns0:rdg>
+                    <ns0:rdg wit="#V2">Mas Marte que da Deosa sustentaua,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Entre todos as partes em porfia,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Ou porque o amor antigo o obrigaua,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Ou porque o amor antiguo o obrigaua,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Ou porque a gente forte o merecia,</ns0:l>
+                <ns0:l>De antre os Deoses em pee se leuantaua,</ns0:l>
+                <ns0:l>Merencorio no gesto parecia:</ns0:l>
+                <ns0:l>O forte escudo ao collo pendurado,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Deitando pera tras medonho, &amp; yrado.</ns0:rdg>
+                    <ns0:rdg wit="#V2">Deitando pera tràs medonho &amp; irado.</ns0:rdg>
+                </ns0:app>
+            </ns0:lg>
+            <ns0:lg n="37">
+                <ns0:l>A viseira do elmo de Diamante,</ns0:l>
+                <ns0:l>Aleuantando hum pouco, muy seguro,</ns0:l>
+                <ns0:l>Por dar seu parecer se pos diante</ns0:l>
+                <ns0:l>De Iupiter, armado, forte &amp; duro:</ns0:l>
+                <ns0:l>E dando hũa pancada penetrante,</ns0:l>
+                <ns0:l>Co conto do bastão, no solio puro:</ns0:l>
+                <ns0:l>O ceo tremeo, &amp; Apolo de toruado,</ns0:l>
+                <ns0:l>Hum pouco a luz perdeo, como infiado.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="38">
+                <ns0:app>
+                    <ns0:rdg wit="#V1">E disse assi, ò Padre a cujo imperio,</ns0:rdg>
+                    <ns0:rdg wit="#V2">E disse assi, ò padre a cujo imperio,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Tudo aquillo obedece, que criaste,</ns0:l>
+                <ns0:l>Se esta gente que busca outro Emispherio,</ns0:l>
+                <ns0:l>Cuja valia, &amp; obras tanto amaste:</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Nam queiras que padeçam vituperio,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Não queres que padeção vituperio,</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Como ha ja tanto tempo que ordenaste.</ns0:rdg>
+                    <ns0:rdg wit="#V2">Como ha ja tanto tempo que ordenaste</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Nam ouças mais, pois es juiz direito,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Não ouças mais, pois es juyz direito,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Razões de quem parece que he sospeito.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="39">
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Que se aqui a razam se nam mostrasse,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Que se aqui a razão se não mostrasse</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Vencida do temor demasiado,</ns0:l>
+                <ns0:l>Bem fora que aqui Baco os sostentasse,</ns0:l>
+                <ns0:l>Pois que de Luso vem, seu tam priuado:</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Mas esta tençam sua, agora passe,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Mas esta tenção sua, agora passe,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Porque em fim vem de estamago danado.</ns0:l>
+                <ns0:l>Que nunca tirarà alhea enueja,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">O bem que outrem merece, &amp; o ceo deseja.</ns0:rdg>
+                    <ns0:rdg wit="#V2">O bem que outrem mereçe, &amp; o ceo deseja.</ns0:rdg>
+                </ns0:app>
+            </ns0:lg>
+            <ns0:lg n="40">
+                <ns0:app>
+                    <ns0:rdg wit="#V1">E tu Padre de grande fortaleza,</ns0:rdg>
+                    <ns0:rdg wit="#V2">E tu padre de grande fortaleza,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Da determinaçam que tẽs tomada,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Nam tornes por detras, pois he fraqueza</ns0:rdg>
+                    <ns0:rdg wit="#V2">Nam tornes por detras pois he fraqueza</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Desistir se da cousa começada.</ns0:l>
+                <ns0:l>Mercurio pois excede em ligeireza</ns0:l>
+                <ns0:l>Ao vento leve, &amp; aa seta bem talhada,</ns0:l>
+                <ns0:l>Lhe va mostrar a terra, onde se informe</ns0:l>
+                <ns0:l>Da India, &amp; onde a gente se reforme.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="41">
+                <ns0:l>Como isto disse o Padre poderoso,</ns0:l>
+                <ns0:l>A cabeça inclinando, consentio</ns0:l>
+                <ns0:l>No que disse Mauorte valeroso,</ns0:l>
+                <ns0:l>E Nectar sobre todos esparzio:</ns0:l>
+                <ns0:l>Pelo caminho Lacteo glorioso,</ns0:l>
+                <ns0:l>Logo cada hum dos Deoses se partio.</ns0:l>
+                <ns0:l>Fazendo seus reaes acatamentos,</ns0:l>
+                <ns0:l>Pera os determinados apousentos.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="42">
+                <ns0:l>Em quanto isto se passa, na fermosa</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Casa Eterea do Olimpo omnipotente,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Casa Eterea do Olimpo omnipotente</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Cortaua o mar a gente belicosa:</ns0:l>
+                <ns0:l>Ia la da banda do Austro, &amp; do Oriente,</ns0:l>
+                <ns0:l>Entre a costa Ethiopica, &amp; a famosa</ns0:l>
+                <ns0:l>Ilha de sam Lourenço, &amp; o Sol ardente</ns0:l>
+                <ns0:l>Queimaua entam os Deoses, que Tifeô</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Co temor grande em peixes conuerteo.</ns0:rdg>
+                    <ns0:rdg wit="#V2">Co temor grande em pexes conuerteô.</ns0:rdg>
+                </ns0:app>
+            </ns0:lg>
+            <ns0:lg n="43">
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Tam brandamente os ventos os leuauam,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Tam brandamente os ventos os leuauão,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Como quem o ceo tinha por amigo:</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Sereno o ar, &amp; os tempos se mostrauam</ns0:rdg>
+                    <ns0:rdg wit="#V2">Sereno o ar, &amp; os tempos se mostrauão</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Sem nuuẽs, sem receyo de perigo:</ns0:rdg>
+                    <ns0:rdg wit="#V2">Sem nuuẽs, sem receio de perigo:</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">O promontorio prasso ja passauam,</ns0:rdg>
+                    <ns0:rdg wit="#V2">O promontorio prasso ja passauão</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Na costa de Ethiopia, nome antigo:</ns0:rdg>
+                    <ns0:rdg wit="#V2">Na costa de Ethiopia, nome antiguo.</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Quando o mar descobrindo lhe mostraua,</ns0:l>
+                <ns0:l>Nouas ilhas que em torno cerca, &amp; laua.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="44">
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Vasco da Gama, o forte Capitão,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Vasco da gama, o forte Capitão,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Que a tamanhas empresas se offerece,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">De soberbo, &amp; de altiuo coraçam,</ns0:rdg>
+                    <ns0:rdg wit="#V2">De soberbo, &amp; de altiuo coração,</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">A quem fortuna sempre fauorece,</ns0:rdg>
+                    <ns0:rdg wit="#V2">A quem fortuna sempre fauorece</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Pera se aqui deter nam ve razam,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Pera se aqui deter, não ve razão,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Que inhabitada a terra lhe parece:</ns0:l>
+                <ns0:l>Por diante passar determinaua:</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Mas nam lhe soccedeo como cuidaua.</ns0:rdg>
+                    <ns0:rdg wit="#V2">Mas nam lhe soccedeo como cuydaua.</ns0:rdg>
+                </ns0:app>
+            </ns0:lg>
+            <ns0:lg n="45">
+                <ns0:l>Eis aparecem logo em companhia,</ns0:l>
+                <ns0:l>Hũs pequenos bateis, que vem daquella</ns0:l>
+                <ns0:l>Que mais chegada à terra parecia,</ns0:l>
+                <ns0:l>Cortando o longo mar com larga vella:</ns0:l>
+                <ns0:l>A gente se aluoroça, &amp; de alegria</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Nam sabe mais que olhar a causa della:</ns0:rdg>
+                    <ns0:rdg wit="#V2">Não sabe mais que olhar a causa della.</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Que gente sera esta, em si deziam,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Que gente sera esta, em si dezião,</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Que costumes, que ley, que Rei teriam?</ns0:rdg>
+                    <ns0:rdg wit="#V2">Que costumes, que ley, que Rei terião?</ns0:rdg>
+                </ns0:app>
+            </ns0:lg>
+            <ns0:lg n="46">
+                <ns0:app>
+                    <ns0:rdg wit="#V1">As embarcações eram, na maneira</ns0:rdg>
+                    <ns0:rdg wit="#V2">As embarcações erão, na maneira</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Muy veloces, estreitas, &amp; compridas,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">As vellas com que vem eram de esteira,</ns0:rdg>
+                    <ns0:rdg wit="#V2">As vellas com que vem erão de esteira,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Dũas folhas de Palma bem tecidas:</ns0:l>
+                <ns0:l>A gente da cor era verdadeira,</ns0:l>
+                <ns0:l>Que Phaeton, nas terras acendidas</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Ao mundo deu, de ousado, &amp; nam prudente,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Ao mundo deu, de ousado, &amp; não prudente,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>O Pado o sabe, &amp; Lampetusa o sente.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="47">
+                <ns0:app>
+                    <ns0:rdg wit="#V1">De panos de algodam vinham vestidos,</ns0:rdg>
+                    <ns0:rdg wit="#V2">De panos de algodão vinhão vestidos,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>De varias cores, brancos, &amp; listrados,</ns0:l>
+                <ns0:l>Hũs trazem derredor de si cingidos,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Outros em modo ayroso sobraçados:</ns0:rdg>
+                    <ns0:rdg wit="#V2">Outros em modo ayroso sobraçados,</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Da cinta pera cima vem despidos,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Das cintas pera cima vem despidos:</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Por armas tem adagas &amp; tarçados:</ns0:rdg>
+                    <ns0:rdg wit="#V2">Por armas tem adagas, &amp; tarçados.</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Com toucas na cabeça, &amp; nauegando,</ns0:l>
+                <ns0:l>Anafis sonorosos vão tocando.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="48">
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Cos panos, &amp; cos braços acenauam,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Cos panos, &amp; cos braços açenauão,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Aas gentes Lusitanas, que esperassem:</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Mas ja as proas ligeiras se inclinauam</ns0:rdg>
+                    <ns0:rdg wit="#V2">Mas ja as proas ligeiras, se inclinauão,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Pera que junto aas Ilhas amainassem.</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">A gente, &amp; marinheiros trabalhauam,</ns0:rdg>
+                    <ns0:rdg wit="#V2">A gente, &amp; marinheiros trabalhauão,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Como se aqui os trabalhos sacabassem:</ns0:l>
+                <ns0:l>Tomão vellas, amainase a verga alta,</ns0:l>
+                <ns0:l>Da ancora o mar ferido, encima salta.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="49">
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Nam erão ancorados, quando a gente</ns0:rdg>
+                    <ns0:rdg wit="#V2">Não erão ancorados, quando a gente</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Estranha, polas cordas ja sobia,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Estranha, polas cordas ja subia,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>No gesto ledos vem, &amp; humanamente,</ns0:l>
+                <ns0:l>O Capitão sublime os recebia.</ns0:l>
+                <ns0:l>As mesas manda por em continente,</ns0:l>
+                <ns0:l>Do licor que Lieo prantado auia:</ns0:l>
+                <ns0:l>Enchem vasos de vidro, &amp; do que deitão,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Os de Phaetom queimados nada engeitam.</ns0:rdg>
+                    <ns0:rdg wit="#V2">Os de Phaeton queimados nada engeitão.</ns0:rdg>
+                </ns0:app>
+            </ns0:lg>
+            <ns0:lg n="50">
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Comendo alegremente perguntauam,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Comendo alegremente perguntauão,</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Pela Arabica lingoa, donde vinham,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Pela Arabica lingoa, donde vinhão,</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Quem eram, de que terra, que buscauão,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Quem erão, de que terra, que buscauão,</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Ou que partes do mar corrido tinham?</ns0:rdg>
+                    <ns0:rdg wit="#V2">Ou que partes do mar corrido tinhão?</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Os fortes Lusitanos lhe tornauam,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Os fortes Lusitanos lhe tornauão,</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">As discretas repostas que conuinham:</ns0:rdg>
+                    <ns0:rdg wit="#V2">As discretas repostas que conuinhão.</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Os Portugueses somos do Occidente,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Himos buscando as terras do Oriente:</ns0:rdg>
+                    <ns0:rdg wit="#V2">Himos buscando as terras do Oriente.</ns0:rdg>
+                </ns0:app>
+            </ns0:lg>
+            <ns0:lg n="51">
+                <ns0:l>Do mar temos corrido, &amp; nauegado</ns0:l>
+                <ns0:l>Toda a parte do Antartico, &amp; Calisto,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Toda a costa Africana rodeado,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Toda a costa Affricana rodeado,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Diuersos Ceos, &amp; Terras temos visto:</ns0:l>
+                <ns0:l>Dum Rei potente somos, tam amado,</ns0:l>
+                <ns0:l>Tam querido de todos, &amp; bem quisto:</ns0:l>
+                <ns0:l>Que nam no largo Mar, com leda fronte:</ns0:l>
+                <ns0:l>Mas no lago entraremos de Acheronte.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="52">
+                <ns0:l>E por mandado seu, buscando andamos</ns0:l>
+                <ns0:l>A terra Oriental, que o Indo rega,</ns0:l>
+                <ns0:l>Por elle o Mar remoto nauegamos,</ns0:l>
+                <ns0:l>Que so dos feos Focas se nauega:</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Mas ja razam parece que saibamos,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Mas ja razão parece que saibamos,</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Se entre vòs a verdade nam se nega:</ns0:rdg>
+                    <ns0:rdg wit="#V2">Se entre vos a verdade não se nega.</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Quem sois, que terra he esta que habitais?</ns0:rdg>
+                    <ns0:rdg wit="#V2">Quem sois, que terra he esta que abitais?</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Ou se tendes da India algũs sinais?</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="53">
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Somos, hum dos das Ilhas, lhe tornou,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Somos, hum dos das Ilhas lhe tornou,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Estrangeiros na terra, Lei, &amp; nação</ns0:l>
+                <ns0:l>Que os proprios, sam aquelles que criou</ns0:l>
+                <ns0:l>A Natura sem Lei, &amp; sem Razão:</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Nos temos a Lei certa que ensinou,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Nos temos a Lei certa que insinou,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>O claro descendente de Abrahão:</ns0:l>
+                <ns0:l>Que agora tem do Mundo o senhorio,</ns0:l>
+                <ns0:l>A mãy Hebrea teue, &amp; o pay Gentio.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="54">
+                <ns0:l>Esta Ilha pequena que habitamos,</ns0:l>
+                <ns0:l>He em toda esta terra certa escala,</ns0:l>
+                <ns0:l>De todos os que as Ondas nauegamos,</ns0:l>
+                <ns0:l>De Quiloa, de Mombaça, &amp; de Sofala:</ns0:l>
+                <ns0:l>E por ser necessaria, procuramos,</ns0:l>
+                <ns0:l>Como proprios da terra, de habitala.</ns0:l>
+                <ns0:l>E porque tudo em fim vos notifique,</ns0:l>
+                <ns0:l>Chamase a pequena Ilha Moçambique.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="55">
+                <ns0:l>E ja que de tam longe nauegais,</ns0:l>
+                <ns0:l>Buscando o Indo Idaspe, &amp; terra ardente,</ns0:l>
+                <ns0:l>Piloto aqui tereis, por quem sejais</ns0:l>
+                <ns0:l>Guiados pelas ondas sabiamente.</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Tambem sera bem feito que tenhais,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Tambem será bemfeito que tenhais,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Da terra algum refresco, &amp; que o Regente</ns0:l>
+                <ns0:l>Que esta terra gouerna, que vos veja,</ns0:l>
+                <ns0:l>E do mais necessario vos proueja.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="56">
+                <ns0:l>Isto dizendo, o Mouro se tornou</ns0:l>
+                <ns0:l>A seus bateis com toda a companhia,</ns0:l>
+                <ns0:l>Do Capitão &amp; gente se apartou,</ns0:l>
+                <ns0:l>Com mostras de deuida cortesia:</ns0:l>
+                <ns0:l>Nisto Febo nas agoas encerrou,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Co carro de Christal, o claro dia.</ns0:rdg>
+                    <ns0:rdg wit="#V2">Co carro de Christal, o claro dia:</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Dando cargo aa Irmaã que alumiasse,</ns0:l>
+                <ns0:l>O largo Mundo, em quanto repousasse.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="57">
+                <ns0:l>A noyte se passou na lassa frota,</ns0:l>
+                <ns0:l>Com estranha alegria, &amp; não cuydada,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Por acharem da terra tam remota,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Por acharem da terra tão remota,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Noua de tanto tempo desejada:</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Qualquer entam consigo cuyda, &amp; nota</ns0:rdg>
+                    <ns0:rdg wit="#V2">Qualquer então consigo cuyda, &amp; nota</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Na gente, &amp; na maneira desusada.</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">E como os que na errada Seita crèrão,</ns0:rdg>
+                    <ns0:rdg wit="#V2">E como os que na errada Seita crêrão</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Tanto por todo o mundo se estendèram.</ns0:rdg>
+                    <ns0:rdg wit="#V2">Tanto por todo o mundo se estendêrão.</ns0:rdg>
+                </ns0:app>
+            </ns0:lg>
+            <ns0:lg n="58">
+                <ns0:l>Da Lũa os claros rayos rutilauão,</ns0:l>
+                <ns0:l>Polas argenteas ondas Neptuninas,</ns0:l>
+                <ns0:l>As Estrellas os Ceos acompanhauão.</ns0:l>
+                <ns0:l>Qual campo reuestido de boninas,</ns0:l>
+                <ns0:l>Os furiosos ventos repousauão,</ns0:l>
+                <ns0:l>Polas couas escuras peregrinas.</ns0:l>
+                <ns0:l>Porem da armada a gente vigiaua,</ns0:l>
+                <ns0:l>Como por longo tempo costumaua.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="59">
+                <ns0:l>Mas assy como a Aurora marchetada,</ns0:l>
+                <ns0:l>Os fermosos cabellos espalhou,</ns0:l>
+                <ns0:l>No Ceo sereno, abrindo a roxa entrada,</ns0:l>
+                <ns0:l>Ao claro Hiperionio que acordou,</ns0:l>
+                <ns0:l>Começa a embandeirarse toda a armada,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">E de toldos alegres se adornou:</ns0:rdg>
+                    <ns0:rdg wit="#V2">E de todos alegres se adornou:</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Por receber com festas, &amp; alegria,</ns0:l>
+                <ns0:l>O Regedor das Ilhas que partia.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="60">
+                <ns0:l>Partia alegremente nauegando,</ns0:l>
+                <ns0:l>A ver as naos ligeiras Lusitanas,</ns0:l>
+                <ns0:l>Com refresco da terra, em si cuidando,</ns0:l>
+                <ns0:l>Que sam aquellas gentes inhumanas:</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Que os apousentos Caspios habitando.</ns0:rdg>
+                    <ns0:rdg wit="#V2">Que os apousentos Caspios habitando,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>A conquistar as terras Asianas</ns0:l>
+                <ns0:l>Vierão: &amp; por ordem do destino,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">O Imperio tomáram a Costantino.</ns0:rdg>
+                    <ns0:rdg wit="#V2">O Imperio tomarão a Costantino.</ns0:rdg>
+                </ns0:app>
+            </ns0:lg>
+            <ns0:lg n="61">
+                <ns0:l>Recebe o Capitão alegremente,</ns0:l>
+                <ns0:l>O Mouro, &amp; toda sua companhia,</ns0:l>
+                <ns0:l>Dalhe de ricas peças hum presente,</ns0:l>
+                <ns0:l>Que so pera este effeito ja trazia:</ns0:l>
+                <ns0:l>Dalhe conserua doçe, &amp; dalhe o ardente</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Nam vsado licor que dá alegria.</ns0:rdg>
+                    <ns0:rdg wit="#V2">Não vsado licor que dâ alegria.</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Tudo o Mouro contente bem recebe,</ns0:l>
+                <ns0:l>E muito mais contente come, &amp; bebe.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="62">
+                <ns0:l>Està a gente maritima de Luso,</ns0:l>
+                <ns0:l>Subida pela exarcia, de admirada,</ns0:l>
+                <ns0:l>Notando o estrangeiro modo, &amp; vso,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">E a lingoagem tam barbara, &amp; enleada.</ns0:rdg>
+                    <ns0:rdg wit="#V2">E a lingoagem tam barbara &amp; enleada.</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Tambem o Mouro astuto está confuso,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Tambem o Mouro astuto està confuso,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Olhando a cor, o trajo, &amp; a forte armada.</ns0:l>
+                <ns0:l>E perguntando tudo lhe dezia,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Se porventura vinham de Turquia.</ns0:rdg>
+                    <ns0:rdg wit="#V2">Se porventura vinhão de Turquia.</ns0:rdg>
+                </ns0:app>
+            </ns0:lg>
+            <ns0:lg n="63">
+                <ns0:l>E mais lhe diz tambem, que ver deseja</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Os liuros de sua ley, preceito, ou fè,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Os liuros de sua ley, preceito, ou fê,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Pera ver se conforme à sua seja,</ns0:l>
+                <ns0:l>Ou se sam dos de Christo, como crè:</ns0:l>
+                <ns0:l>E porque tudo note, &amp; tudo veja,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Ao Capitão pedia, que lhe dè,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Ao Capitão pedia, que lhe dê,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Mostra das fortes armas de que vsauão,</ns0:l>
+                <ns0:l>Quando cos inimigos pelejauão.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="64">
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Respondeo ô valeroso Capitão,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Responde o valeroso Capitão,</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Por hum que a lingoa escura bem sabia:</ns0:rdg>
+                    <ns0:rdg wit="#V2">Por hum que a lingoa escura bem sabia.</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Darte ey Senhor illustre relação</ns0:l>
+                <ns0:l>De my, da ley, das armas que trazia:</ns0:l>
+                <ns0:l>Nem sou da terra, nem da geraçam,</ns0:l>
+                <ns0:l>Das gentes enojosas de Turquia:</ns0:l>
+                <ns0:l>Mas sou da forte Europa belicosa,</ns0:l>
+                <ns0:l>Busco as terras da India tam famosa?</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="65">
+                <ns0:l>A ley tenho daquelle, a cujo imperio</ns0:l>
+                <ns0:l>Obedece o visibil, &amp; inuisibil,</ns0:l>
+                <ns0:l>Aquelle que criou todo o Emispherio,</ns0:l>
+                <ns0:l>Tudo o que sente, &amp; todo o insensibil</ns0:l>
+                <ns0:l>Que padeceo deshonra, &amp; vituperio,</ns0:l>
+                <ns0:l>Sofrendo morte injusta, &amp; insufribil:</ns0:l>
+                <ns0:l>E que do ceo aa terra em fim deceo,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Por sobir os mortais da terra ao ceo.</ns0:rdg>
+                    <ns0:rdg wit="#V2">Por subir os mortais da terra ao ceo.</ns0:rdg>
+                </ns0:app>
+            </ns0:lg>
+            <ns0:lg n="66">
+                <ns0:l>Deste Deos homem, alto, &amp; infinito,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Os liuros que tu pedes nam trazia,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Os Liuros que tu pedes, nam trazia,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Que bem posso escusar trazer escripto</ns0:l>
+                <ns0:l>Em papel, o que na alma andar deuia.</ns0:l>
+                <ns0:l>Se as armas queres ver, como tẽs dito,</ns0:l>
+                <ns0:l>Comprido esse desejo te seria:</ns0:l>
+                <ns0:l>Como amigo as veras, porque eu me obrigo,</ns0:l>
+                <ns0:l>Que nunca as queiras ver como inimigo.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="67">
+                <ns0:l>Isto dizendo, manda os diligentes</ns0:l>
+                <ns0:l>Ministros, amostrar as armaduras,</ns0:l>
+                <ns0:l>Vem arneses, &amp; peitos reluzentes,</ns0:l>
+                <ns0:l>Malhas finas, &amp; laminas seguras,</ns0:l>
+                <ns0:l>Escudos de pinturas differentes,</ns0:l>
+                <ns0:l>Pilouros, espingardas de aço puras,</ns0:l>
+                <ns0:l>Arcos, &amp; sagittiferas aljauas,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Partasanas agudas, chuças brauas,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Partasanas agudas, chuças brauas.</ns0:rdg>
+                </ns0:app>
+            </ns0:lg>
+            <ns0:lg n="68">
+                <ns0:l>As bombas vem de fogo, &amp; juntamente</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">As panellas sulfuneas, tam danosas,</ns0:rdg>
+                    <ns0:rdg wit="#V2">As panellas sulfureas, tam danosas,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Porem aos de Vulcano nam consente</ns0:l>
+                <ns0:l>Que dem fogo aas bombardas temerosas:</ns0:l>
+                <ns0:l>Porque o generoso animo, &amp; valente,</ns0:l>
+                <ns0:l>Entre gentes tam poucas, &amp; medrosas,</ns0:l>
+                <ns0:l>Não mostra quanto pode, &amp; com razão,</ns0:l>
+                <ns0:l>Que he fraqueza entre ouelhas ser lião.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="69">
+                <ns0:l>Porem disto que o Mouro aqui notou,</ns0:l>
+                <ns0:l>E de tudo o que vio, com olho atento,</ns0:l>
+                <ns0:l>Hum odio certo na alma lhe ficou,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Hũa vontade má de pensamento.</ns0:rdg>
+                    <ns0:rdg wit="#V2">Hũa vontade mà de pensamento.</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Nas mostras, &amp; no gesto o não mostrou:</ns0:l>
+                <ns0:l>Mas com risonho, &amp; ledo fingimento,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Tratallos brandamente determina,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Tratalos brandamente determina,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Ate que mostrar possa o que imagina.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="70">
+                <ns0:l>Pilotos lhe pedia o Capitão,</ns0:l>
+                <ns0:l>Por quem podesse aa India ser leuado,</ns0:l>
+                <ns0:l>Dizlhe, que o largo premio leuarão,</ns0:l>
+                <ns0:l>Do trabalho que nisso for tomado.</ns0:l>
+                <ns0:l>Prometelhos o Mouro, com tenção</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">De peito venenoso, &amp; tam danado:</ns0:rdg>
+                    <ns0:rdg wit="#V2">De peito venenoso, &amp; tão danado:</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Que a morte se podesse neste dia,</ns0:l>
+                <ns0:l>Em lugar de Pilotos lhe daria.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="71">
+                <ns0:l>Tamanho o odio foy, &amp; a mà vontade,</ns0:l>
+                <ns0:l>Que aos estrangeiros supito tomou,</ns0:l>
+                <ns0:l>Sabendo ser sequaces da verdade,</ns0:l>
+                <ns0:l>Que o filho de Dauid nos ensinou,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Os segredos daquella Eternidade,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Os segredos daquella Eternidade</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">A quem juyzo algum nam alcançou.</ns0:rdg>
+                    <ns0:rdg wit="#V2">A quem juyzo algum não alcançou.</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Que nunca falte hum perfido inimigo,</ns0:l>
+                <ns0:l>A aquelles de quem foste tanto amigo?</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="72">
+                <ns0:l>Partiose nisto em fim co a companhia,</ns0:l>
+                <ns0:l>Das naos o falso Mouro despedido,</ns0:l>
+                <ns0:l>Com enganosa &amp; grande cortesia,</ns0:l>
+                <ns0:l>Com gesto ledo a todos, &amp; fingido:</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Cortàram os bateis a curta via</ns0:rdg>
+                    <ns0:rdg wit="#V2">Cortarão os bateis a curta via</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Das agoas de Neptuno, &amp; recebido</ns0:l>
+                <ns0:l>Na terra do obsequente ajuntamento,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Se foy o Mouro ao cognito aposento.</ns0:rdg>
+                    <ns0:rdg wit="#V2">Se foy o Mouro ao cognito apousento:</ns0:rdg>
+                </ns0:app>
+            </ns0:lg>
+            <ns0:lg n="73">
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Do claro assento Etereo, o gram Tebano,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Do claro assento Etereo, o grão Tebano,</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Que da paternal coxa foy nascido,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Que da paternal coxa foy nascido</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Olhando o ajuntamento Lusitano,</ns0:l>
+                <ns0:l>Ao Mouro ser molesto, &amp; auorrecido:</ns0:l>
+                <ns0:l>No pensamento cuyda hum falso engano</ns0:l>
+                <ns0:l>Com que seja de todo destruydo.</ns0:l>
+                <ns0:l>E em quanto isto so na alma imaginaua</ns0:l>
+                <ns0:l>Consigo estas palauras praticaua.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="74">
+                <ns0:l>Està do fado ja determinado,</ns0:l>
+                <ns0:l>Que tamanhas victorias tam famosas,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Ajam os Portugueses alcansado,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Ajão os Portugueses alcançado,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Das Indianas gentes belicosas.</ns0:l>
+                <ns0:l>E eu so filho do Padre sublimado,</ns0:l>
+                <ns0:l>Com tantas qualidades generosas:</ns0:l>
+                <ns0:l>Ey de sofrer que o Fado fauoreça</ns0:l>
+                <ns0:l>Outrem, por quem meu nome se escureça?</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="75">
+                <ns0:l>Ia quiseram os Deoses que tiuesse,</ns0:l>
+                <ns0:l>O filho de Filipo nesta parte,</ns0:l>
+                <ns0:l>Tanto poder, que tudo sometesse</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Debaixo de seu jugo, o fero Marte:</ns0:rdg>
+                    <ns0:rdg wit="#V2">Debaixo do seu jugo, o fero Marte:</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Mas asse de soffrer que o Fado desse,</ns0:l>
+                <ns0:l>A tam poucos tamanho esforço, &amp; arte</ns0:l>
+                <ns0:l>Queu co gram Macedonio, &amp; Romano,</ns0:l>
+                <ns0:l>Demos lugar ao nome Lusitano?</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="76">
+                <ns0:l>Não sera assy, porque antes que chegado</ns0:l>
+                <ns0:l>Seja este Capitão, astutamente</ns0:l>
+                <ns0:l>Lhe sera tanto engano fabricado,</ns0:l>
+                <ns0:l>Que nunca veja as partes do Oriente:</ns0:l>
+                <ns0:l>Eu decerey aa terra, &amp; o indignado</ns0:l>
+                <ns0:l>Peito, reuoluerey da Maura gente,</ns0:l>
+                <ns0:l>Porque sempre por via yra dereita,</ns0:l>
+                <ns0:l>Quem do oportuno tempo se aproueita.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="77">
+                <ns0:l>Isto dizendo yrado, &amp; quasi insano,</ns0:l>
+                <ns0:l>Sobre a terra Affricana descendeo,</ns0:l>
+                <ns0:l>Onde vestindo a forma &amp; gesto humano,</ns0:l>
+                <ns0:l>Pera o Prasso sabido se moueo.</ns0:l>
+                <ns0:l>E por milhor tecer o astuto engano,</ns0:l>
+                <ns0:l>No gesto natural se conuerteo,</ns0:l>
+                <ns0:l>Dum Mouro, em Moçambique conhecido,</ns0:l>
+                <ns0:l>Velho, sabio, &amp; co Xeque muy valido.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="78">
+                <ns0:l>E entrando assy a falarlhe, a tempo &amp; horas,</ns0:l>
+                <ns0:l>A sua falsidade acomodadas,</ns0:l>
+                <ns0:l>Lhe diz como erão gentes roubadoras,</ns0:l>
+                <ns0:l>Estas que ora de nouo sam chegadas:</ns0:l>
+                <ns0:l>Que das nações na costa moradoras,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Correndo a fama veio, que roubadas</ns0:rdg>
+                    <ns0:rdg wit="#V2">Correndo a fama veio, que roubadas,</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Forão por estes homẽs que passauam,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Forão por estes homẽs que passauão,</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Que com pactos de paz sempre ancorauam.</ns0:rdg>
+                    <ns0:rdg wit="#V2">Que com pactos de paz sempre ancorauão.</ns0:rdg>
+                </ns0:app>
+            </ns0:lg>
+            <ns0:lg n="79">
+                <ns0:l>E sabe mais, lhe diz, como entendido</ns0:l>
+                <ns0:l>Tenho destes Christãos sanguinolentos,</ns0:l>
+                <ns0:l>Que quasi todo o mar tem destruido,</ns0:l>
+                <ns0:l>Com roubos, com incendios violentos:</ns0:l>
+                <ns0:l>E trazem ja de longe engano vrdido,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Contra nòs, &amp; que todos seus intentos</ns0:rdg>
+                    <ns0:rdg wit="#V2">Contra nos, &amp; que todos seus intentos</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Sam pera nos matarem, &amp; roubarem,</ns0:l>
+                <ns0:l>E molheres &amp; filhos captiuarem.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="80">
+                <ns0:l>E tambem sey que tem determinado,</ns0:l>
+                <ns0:l>De vir por agoa a terra muito cedo,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">O Capitão dos seus acompanhado,</ns0:rdg>
+                    <ns0:rdg wit="#V2">O Capitão dos seus acomponhado,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Que da tençam danada nasce o medo:</ns0:l>
+                <ns0:l>Tu deues de yr tambem cos teus armado</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Esperallo em cilado, occulto &amp; quedo:</ns0:rdg>
+                    <ns0:rdg wit="#V2">Esperallo em cilada, occulto &amp; quedo:</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Porque saindo a gente descuydada,</ns0:l>
+                <ns0:l>Cairão facilmente na cilada.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="81">
+                <ns0:app>
+                    <ns0:rdg wit="#V1">E se inda nam ficarem deste geito,</ns0:rdg>
+                    <ns0:rdg wit="#V2">E se inda não ficarem deste geito,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Destruydos, ou mortos totalmente,</ns0:l>
+                <ns0:l>Eu tenho imaginada no conceito,</ns0:l>
+                <ns0:l>Outra manha &amp; ardil que te contente:</ns0:l>
+                <ns0:l>Mandalhe dar Piloto, que de geito</ns0:l>
+                <ns0:l>Seja astuto no engano, &amp; tam prudente,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Que os leue aonde sejam destruydos,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Que os leue aonde sejão destruydos,</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Desbaratados, mortos, ou perdidos.</ns0:rdg>
+                    <ns0:rdg wit="#V2">Desbaratados mortos, ou perdidos.</ns0:rdg>
+                </ns0:app>
+            </ns0:lg>
+            <ns0:lg n="82">
+                <ns0:l>Tanto que estas palauras acabou,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">O Mouro nos taes casos, sabio &amp; velho</ns0:rdg>
+                    <ns0:rdg wit="#V2">O Mouro nos tais casos, sabio &amp; velho</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Os braços pelo collo lhe lançou,</ns0:l>
+                <ns0:l>Agradecendo muito o tal conselho:</ns0:l>
+                <ns0:l>E logo nesse instante concertou,</ns0:l>
+                <ns0:l>Pera a guerra o beligero aparelho:</ns0:l>
+                <ns0:l>Pera que ao Portugues se lhe tornasse,</ns0:l>
+                <ns0:l>Em roxo sangue a agoa que buscasse.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="83">
+                <ns0:l>E busca mais pera o cuydado engano,</ns0:l>
+                <ns0:l>Mouro que por Piloto aa não lhe mande,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Sagaz, astuto, &amp; sabio em todo dano,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Sagaz, astuto, &amp; sabio em todo o dano</ns0:rdg>
+                </ns0:app>
+                <ns0:l>De quem fiar se possa hum feito grande,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Dizlhe que acompanhando o Lusitano,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Diz lhe que acompanhando o Lusitano,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Por tais costas, &amp; mares co elle ande:</ns0:l>
+                <ns0:l>Que se daqui escapar, que la diante</ns0:l>
+                <ns0:l>Va cair onde nunca se aleuante.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="84">
+                <ns0:l>Ia o rayo Apolineo visitaua,</ns0:l>
+                <ns0:l>Os Montes Nabatheos acendido,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Quando Gama cos seus determinau</ns0:rdg>
+                    <ns0:rdg wit="#V2">Quando Gama cos seus determinaua,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>De vir por agoa a terra apercebido:</ns0:l>
+                <ns0:l>A gente nos bateis se concertaua,</ns0:l>
+                <ns0:l>Como se fosse o engano ja sabido:</ns0:l>
+                <ns0:l>Mas pode sospeitarse facilmente,</ns0:l>
+                <ns0:l>Que o coração presago nunca mente.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="85">
+                <ns0:l>E mais tambem mandado tinha a terra,</ns0:l>
+                <ns0:l>De antes pelo Piloto necessario:</ns0:l>
+                <ns0:l>E foilhe respondido em som de guerra,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Caso do que cuidaua muy contrario:</ns0:rdg>
+                    <ns0:rdg wit="#V2">Caso do que cuydaua muy contrario:</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Por isto, &amp; porque sabe quanto erra,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Quem se crè de seu perfido aduersario,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Quem se cre de seu perfido aduersario,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Apercebido vay como podia,</ns0:l>
+                <ns0:l>Em tres bateis somente que trazia:</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="86">
+                <ns0:l>Mas os Mouros que andauão pela praya,</ns0:l>
+                <ns0:l>Por lhe defender a agoa desejada,</ns0:l>
+                <ns0:l>Hum de escudo embarçado, &amp; de azagaya,</ns0:l>
+                <ns0:l>Outro de arco encuruado, &amp; seta eruada:</ns0:l>
+                <ns0:l>Esperão que a guerreira gente saya,</ns0:l>
+                <ns0:l>Outros muytos ja postos em cillada.</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">E porque o caso leue selhe faça,</ns0:rdg>
+                    <ns0:rdg wit="#V2">E porque o caso leue se lhe faça,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Poem hũs poucos diante por negaça.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="87">
+                <ns0:l>Andão pela ribeira alua arenosa,</ns0:l>
+                <ns0:l>Os belicosos Mouros acenando,</ns0:l>
+                <ns0:l>Com a adarga, &amp; co a astea perigosa,</ns0:l>
+                <ns0:l>Os fortes Portugueses incitando:</ns0:l>
+                <ns0:l>Nam soffre muito a gente generosa,</ns0:l>
+                <ns0:l>Andarlhe os cães os dentes amostrando.</ns0:l>
+                <ns0:l>Qualquer em terra salta, tam ligeiro,</ns0:l>
+                <ns0:l>Que nenhum dizer pode que he primeiro.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="88">
+                <ns0:l>Qual no corro sanguino, o ledo amante,</ns0:l>
+                <ns0:l>Vendo a fermosa dama desejada,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">O Touro busca, &amp; pondose diante,</ns0:rdg>
+                    <ns0:rdg wit="#V2">O Touro busca, &amp; pondo se diante,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Salta, corre, sibila, acena, &amp; brada:</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Mas o animal atroce nesse instante,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Mas o animal atroçe nesse instante,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Com a fronte cornigera inclinada,</ns0:l>
+                <ns0:l>Bramando duro corre, &amp; os olhos cerra,</ns0:l>
+                <ns0:l>Derriba, fere, &amp; mata &amp; poem por terra.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="89">
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Eis nos bateis fogo se leuanta,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Eis nos bateis o fogo se leuanta,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Na furiosa &amp; dura artilheria,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">A plumbea pela mata, o brado espanta.</ns0:rdg>
+                    <ns0:rdg wit="#V2">A plumbea pela mata, o brado espanta:</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Ferido o ar retumba, &amp; assouia:</ns0:l>
+                <ns0:l>O coraçam dos Mouros se quebranta,</ns0:l>
+                <ns0:l>O temor grande o sangue lhe resfria.</ns0:l>
+                <ns0:l>Ia foge o escondido de medroso,</ns0:l>
+                <ns0:l>E morre o descuberto auenturoso.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="90">
+                <ns0:l>Não se contenta a gente Portuguesa:</ns0:l>
+                <ns0:l>Mas seguindo a victoria estrue, &amp; mata</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">A pouoaçam sem muro, &amp; sem defesa,</ns0:rdg>
+                    <ns0:rdg wit="#V2">A pouoação sem muro, &amp; sem defesa,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Esbombardea, acende, &amp; desbarata.</ns0:l>
+                <ns0:l>Da caualgada ao Mouro ja lhe pesa,</ns0:l>
+                <ns0:l>Que bem cuidou comprala mais barata:</ns0:l>
+                <ns0:l>Ia blasfema da guerra, &amp; maldizia,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">O velho Inerte, &amp; a mãy que o filho cria.</ns0:rdg>
+                    <ns0:rdg wit="#V2">O velho inerte, &amp; a mãy que o filho cria.</ns0:rdg>
+                </ns0:app>
+            </ns0:lg>
+            <ns0:lg n="91">
+                <ns0:l>Fugindo, a seta o Mouro vay tirando,</ns0:l>
+                <ns0:l>Sem força, de couarde, &amp; de apressado,</ns0:l>
+                <ns0:l>A pedra, o pao, &amp; o canto arremessando,</ns0:l>
+                <ns0:l>Dalhe armas o furor desatinado:</ns0:l>
+                <ns0:l>Ia a Ilha, &amp; todo o mais, desemparando,</ns0:l>
+                <ns0:l>Aa terra firme foge amedrontado.</ns0:l>
+                <ns0:l>Passa, &amp; corta do mar o estreito braço,</ns0:l>
+                <ns0:l>Que a Ilha em torno cerca, em pouco espaço.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="92">
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Hũs vão nas almàdias carregadas,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Hũs vão nas almádias carregadas,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Hum corta o mar a nado diligente,</ns0:l>
+                <ns0:l>Quem se affoga nas ondas encuruadas,</ns0:l>
+                <ns0:l>Quem bebe o mar, &amp; o deita juntamente:</ns0:l>
+                <ns0:l>Arrombão as meudas bombardadas</ns0:l>
+                <ns0:l>Os Pangaios sotis da bruta gente.</ns0:l>
+                <ns0:l>Desta arte o Portugues em fim castiga,</ns0:l>
+                <ns0:l>A vil malicia, perfida, inimiga.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="93">
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Tornam victoriosos pera a armada,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Tornão victoriosos pera a armada,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Co despojo da guerra, &amp; rica presa,</ns0:l>
+                <ns0:l>E vão a seu prazer fazer agoada,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Sem achar resistencia, nem defesa,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Sem achar resistencia, nem defesa</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Ficaua a Maura gente magoada,</ns0:l>
+                <ns0:l>No odio antigo, mais que nunca acesa.</ns0:l>
+                <ns0:l>E vendo sem vingança tanto dano,</ns0:l>
+                <ns0:l>Somente estriba no segundo engano.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="94">
+                <ns0:l>Pazes cometer manda arrependido,</ns0:l>
+                <ns0:l>O Regedor daquella inica terra,</ns0:l>
+                <ns0:l>Sem ser dos Lusitanos entendido,</ns0:l>
+                <ns0:l>Que em figura de paz lhe manda guerra:</ns0:l>
+                <ns0:l>Porque o Piloto falso prometido,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Que toda a má tençam no peito encerra.</ns0:rdg>
+                    <ns0:rdg wit="#V2">Que toda a mà tenção no peito encerra.</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Pera os guiar aa morte lhe mandaua,</ns0:l>
+                <ns0:l>Como em sinal das pazes que trataua.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="95">
+                <ns0:app>
+                    <ns0:rdg wit="#V1">O Capitam, que ja lhe entam conuinha,</ns0:rdg>
+                    <ns0:rdg wit="#V2">O Capitão, que ja lhe entam conuinha,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Tornar a seu caminho acostumado,</ns0:l>
+                <ns0:l>Que tempo concertado, &amp; ventos tinha,</ns0:l>
+                <ns0:l>Pera yr buscar o Indo desejado.</ns0:l>
+                <ns0:l>Recebendo o Piloto que lhe vinha,</ns0:l>
+                <ns0:l>Foy delle alegremente agasalhado:</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">E respondendo ao mensageiro, atento</ns0:rdg>
+                    <ns0:rdg wit="#V2">E respondendo ao mensageiro, a tento</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Aas vellas manda dar ao largo vento.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="96">
+                <ns0:l>Desta arte despedida a forte armada,</ns0:l>
+                <ns0:l>As ondas de Anfitrite diuidia,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Das filhas de Nerèo acompanhada,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Das filhas de Nerêo acompanhada,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Fiel, alegre, &amp; doçe companhia.</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">O Capitam, que nam cahia em nada,</ns0:rdg>
+                    <ns0:rdg wit="#V2">O Capitão, que não cahia em nada,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Do enganoso ardil que o Mouro vrdia:</ns0:l>
+                <ns0:l>Delle muy largamente se informaua,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Da India toda, &amp; costas que passaua.</ns0:rdg>
+                    <ns0:rdg wit="#V2">Da India toda, &amp; costas que passaua:</ns0:rdg>
+                </ns0:app>
+            </ns0:lg>
+            <ns0:lg n="97">
+                <ns0:l>Mas o Mouro instruido nos enganos,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Que o maléuolo Baco lhe ensinàra</ns0:rdg>
+                    <ns0:rdg wit="#V2">Que o maléuolo Baco lhe ensinára</ns0:rdg>
+                </ns0:app>
+                <ns0:l>De morte, ou captiueiro nouos danos,</ns0:l>
+                <ns0:l>Antes que aa India chegue lhe prepara,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Dando razam dos portos Indianos,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Dando razão dos portos Indianos,</ns0:rdg>
+                </ns0:app>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Tambem tudo o que pede lhe declara:</ns0:rdg>
+                    <ns0:rdg wit="#V2">Tambem tudo o que pede lhe declara.</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Que auendo por verdade o que dizia,</ns0:l>
+                <ns0:l>De nada a forte gente se temia.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="98">
+                <ns0:app>
+                    <ns0:rdg wit="#V1">E dizlhe mais co falso pensamento,</ns0:rdg>
+                    <ns0:rdg wit="#V2">E diz lhe mais co falso pensamento,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Com que Synon os Phrigios enganou,</ns0:l>
+                <ns0:l>Que perto està hũa Ilha, cujo assento,</ns0:l>
+                <ns0:l>Pouo antigo Christão sempre abitou:</ns0:l>
+                <ns0:l>O Capitão que a tudo estaua a tento,</ns0:l>
+                <ns0:l>Tanto co estas nouas se alegrou,</ns0:l>
+                <ns0:l>Que com dadiuas grandes lhe rogaua,</ns0:l>
+                <ns0:l>Que o leue aa terra onde esta gente estaua.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="99">
+                <ns0:l>Ho mesmo o falso Mouro determina,</ns0:l>
+                <ns0:l>Que o seguro Christão lhe manda &amp; pede,</ns0:l>
+                <ns0:l>Que a Ilha he possuida da malina</ns0:l>
+                <ns0:l>Gente, que segue o torpe Mahamede:</ns0:l>
+                <ns0:l>Aqui o engano &amp; morte lhe imagina,</ns0:l>
+                <ns0:l>Porque em poder &amp; forças muito excede</ns0:l>
+                <ns0:l>Aa Moçambique, esta Ilha que se chama</ns0:l>
+                <ns0:l>Quîloa, muy conhecida pola fama.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="100">
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Pera lá se inclinaua a leda frota:</ns0:rdg>
+                    <ns0:rdg wit="#V2">Pera là se inclinaua a leda frota:</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Mas a Deosa em Cythere celebrada,</ns0:l>
+                <ns0:l>Vendo como deixaua a certa rota,</ns0:l>
+                <ns0:l>Por yr buscar a morte não cuidada,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Nam consente que em terra tam remota</ns0:rdg>
+                    <ns0:rdg wit="#V2">Não consente que em terra tão remota</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Se perca a gente della tanto amada.</ns0:l>
+                <ns0:l>E com ventos contrairos a desuia,</ns0:l>
+                <ns0:l>Donde o Piloto falso a leua, &amp; guia.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="101">
+                <ns0:l>Mas o maluado Mouro nam podendo,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Tal determinaçam leuar a vante,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Tal determinação leuar auante,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Outra maldade inica cometendo,</ns0:l>
+                <ns0:l>Ainda em seu proposito constante,</ns0:l>
+                <ns0:l>Lhe diz, que pois as agoas discorrendo,</ns0:l>
+                <ns0:l>Os leuàrão por força por diante,</ns0:l>
+                <ns0:l>Que outra Ilha tem perto, cuja gente,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Eram Christãos com Mouros juntamente.</ns0:rdg>
+                    <ns0:rdg wit="#V2">Erão Christãos com Mouros juntamente.</ns0:rdg>
+                </ns0:app>
+            </ns0:lg>
+            <ns0:lg n="102">
+                <ns0:l>Tambem nestas palauras lhe mentia,</ns0:l>
+                <ns0:l>Como por regimento em fim leuaua,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Que aqui gente de Christo nam auia:</ns0:rdg>
+                    <ns0:rdg wit="#V2">Que aqui gente de Christo não auia:</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Mas a que a Mahamede celebraua.</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">O Capitam que em tudo o Mouro cria,</ns0:rdg>
+                    <ns0:rdg wit="#V2">O Capitão que em tudo o mouro cria,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Virando as vellas, a Ilha demandaua:</ns0:l>
+                <ns0:l>Mas nam querendo a Deosa guardadora,</ns0:l>
+                <ns0:l>Nam entra pela barra, &amp; surge fora.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="103">
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Estaua a Ilha aà terra tam chegada,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Estaua a Ilha aa terra tam chegada,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Que hum estreito pequeno a diuidia,</ns0:l>
+                <ns0:l>Hũa cidade nella situada,</ns0:l>
+                <ns0:l>Que na fronte do mar aparecia,</ns0:l>
+                <ns0:l>De nobres edificios fabricada,</ns0:l>
+                <ns0:l>Como por fora, ao longe descobria,</ns0:l>
+                <ns0:l>Regida por hum Rei de antigua idade,</ns0:l>
+                <ns0:l>Mombaça he o nome da Ilha, &amp; da Cidade.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="104">
+                <ns0:app>
+                    <ns0:rdg wit="#V1">E sendo a ella o Capitam chegado,</ns0:rdg>
+                    <ns0:rdg wit="#V2">E sendo a ella o Capitão chegado,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Estranhamente ledo, porque espera</ns0:l>
+                <ns0:l>De poder ver o pouo baptizado,</ns0:l>
+                <ns0:l>Como o falso Piloto lhe dissera:</ns0:l>
+                <ns0:l>Eis vem bateis da terra com recado</ns0:l>
+                <ns0:l>Do Rei, que ja sabia a gente que era,</ns0:l>
+                <ns0:l>Que Baco muito de antes o auisara,</ns0:l>
+                <ns0:l>Na forma doutro Mouro que tomàra.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="105">
+                <ns0:l>O recado que trazem he de amigos:</ns0:l>
+                <ns0:l>Mas debaxo o veneno vem cuberto,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Que os pensamentos eram de inimigos,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Que os pensamentos erão de inimigos,</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Segundo foy o engano descuberto.</ns0:l>
+                <ns0:l>O grandes &amp; grauissimos perigos,</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">O caminho de vida nunca certo.</ns0:rdg>
+                    <ns0:rdg wit="#V2">O caminho de vida nunca certo:</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Que aonde a gente poem sua esperança,</ns0:l>
+                <ns0:l>Tenha a vida tam pouca segurança.</ns0:l>
+            </ns0:lg>
+            <ns0:lg n="106">
+                <ns0:l>No mar tanta tormenta, &amp; tanto dano,</ns0:l>
+                <ns0:l>Tantas vezes a morte apercebida,</ns0:l>
+                <ns0:l>Na terra, tanta guerra, tanto engano,</ns0:l>
+                <ns0:l>Tanta necessidade auorrecida:</ns0:l>
+                <ns0:l>Onde pode acolherse hum fraco humano,</ns0:l>
+                <ns0:l>Onde terà segura a curta vida?</ns0:l>
+                <ns0:app>
+                    <ns0:rdg wit="#V1">Que não se arme, &amp; se indigne o ceo sereno,</ns0:rdg>
+                    <ns0:rdg wit="#V2">Que não se arme, &amp; se indigne o Ceo sereno.</ns0:rdg>
+                </ns0:app>
+                <ns0:l>Contra hum bicho da terra tam pequeno.</ns0:l>
+            </ns0:lg>
+        </ns0:body>
+    </ns0:text>
+</ns0:TEI>
