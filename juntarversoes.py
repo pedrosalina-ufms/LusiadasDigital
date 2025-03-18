@@ -63,8 +63,9 @@ def gerar_tei_combinado(versos1, versos2, ns, saida):
         
         # Adiciona o verso
         if v1 != v2:
-            # Se houver diferença, usa <app> e <rdg>
-            app = ET.SubElement(lg, f"{ns}app")
+            # Se houver diferença, usa <app> dentro de <l>
+            l = ET.SubElement(lg, f"{ns}l")
+            app = ET.SubElement(l, f"{ns}app")
             rdg1 = ET.SubElement(app, f"{ns}rdg", wit="#V1")
             rdg1.text = v1
             rdg2 = ET.SubElement(app, f"{ns}rdg", wit="#V2")

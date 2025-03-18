@@ -38,6 +38,7 @@
     <div class="estrofe">
       <xsl:apply-templates select="tei:l | tei:app" />
     </div>
+    <hr/>
   </xsl:template>
 
   <!-- Template para versos -->
