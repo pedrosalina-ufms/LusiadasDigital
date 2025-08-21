@@ -1279,6 +1279,68 @@
 
 
             </div>
+            <div type="canto" n="2">
+                <pb n="19" />
+                <fw type="header" place="top">CANTO SEGVNDO.</fw>
+                <head>Canto Segundo.</head>
+                <lg
+                    type="estrofe" n="1">
+                    <l>IA neste tempo o<lb /> lucido Planeta,</l>
+                    <l>Que as horas vay do dia distin<lb break="no" />guindo,</l>
+                    <l>Chegaua aa desejada, &amp; lenta Meta,</l>
+                    <l>A luz Celeste aas gentes encobrindo:</l>
+                    <l>E da casa maritima secreta,</l>
+                    <l>Lhe estaua o Deos Nocturno a porta abrĩdo:</l>
+                    <l>Quando as infidas gentes se chegárão</l>
+                    <l>Aas naos, que pouco auia que ancorárão.</l>
+                </lg>
+                <lg type="estrofe" n="2">
+                    <l>Dantre elles hum que traz encomendado,</l>
+                    <l>O mortifero engano, assi dezia:</l>
+                    <l>Capitão valeroso, que cortado</l>
+                    <l>Tens de Neptuno o reyno, &amp; salsa via,</l>
+                    <l>O Rei que manda esta Ilha, aluoraçado</l>
+                    <l>Da vinda tua tem tanta alegria,</l>
+                    <l>Que nam deseja mais que agasalharte,</l>
+                    <l>Verte, &amp; do necessario reformarte.</l>
+                </lg>
+                <fw type="sig" place="bottom">C3</fw>
+                <fw type="catch" place="bottom">E porque</fw>
+
+                <fw type="header" place="top">OS LVSIADAS DE L. DE CA.</fw>
+                <lg>
+                    <l>E porque està em estremo desejoso</l>
+                    <l>De te ver, como cousa nomeada,</l>
+                    <l>Te roga que de nada receoso,</l>
+                    <l>Entres a barra, tu com toda armada:</l>
+                    <l>E porque do caminho trabalhoso,</l>
+                    <l>Traras a gente debil, &amp; cansada,</l>
+                    <l>Diz que na terra podes reformala,</l>
+                    <l>Que a natureza obriga a desejala,</l>
+                </lg>
+                <lg>
+                    <l>E se buscando vas mercadoria,</l>
+                    <l>Que produze o aurifero Leuante,</l>
+                    <l>Canella, Crauo, ardente especiaria,</l>
+                    <l>Ou Droga salutifera, &amp; prestante:</l>
+                    <l>Ou se queres luzente pedraria,</l>
+                    <l>O Rubî fino, o rigido Diamante:</l>
+                    <l>Daqui levaras tudo tam sobejo,</l>
+                    <l>Com que faças o fim a teu desejo:</l>
+                </lg>
+                <lg>
+                    <l>Ao mensageiro o Capitão responde,</l>
+                    <l>As palavras do Rei agradecendo,</l>
+                    <l>E diz, que porque o Sol no mar se esconde,</l>
+                    <l>Não entra pera dentro obedecendo,</l>
+                    <l>Porem que como a luz mostrar por onde</l>
+                    <l>Va sem perigo, a frota não temendo,</l>
+                    <l>Comprirà sem receio seu mandado,</l>
+                    <l>Que a mais por tal senhor está obrigado.</l>
+                </lg>
+                <fw type="catch" place="bottom">Perguntalhe</fw>
+
+            </div>
         </body>
     </text>
 </TEI>
