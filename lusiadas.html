@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Os Lusíadas - Luís de Camões</title>
+    <meta name="author" content="Luís de Camões">
+    <meta name="link" content="https://bibliotecadigital.ebsqf.pt/view/30/Os%20Lusiadas%20-%20Luis%20de%20Camoes.pdf">
+    <meta name="description" content="Edição de Os Lusíadas com ortografia modernizada. Publicado pelo Instituto Camões em Lisboa, 2000.">
+
+    <style>
+        body {
+            font-family: Garamond, "Times New Roman", serif;
+            line-height: 1.6;
+            background-color: #fdfdfa;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+        }
+
+        header {
+            text-align: center;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 20px;
+            margin-bottom: 40px;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+            color: #5d4037;
+        }
+
+        header h2 {
+            margin: 10px 0;
+            font-size: 1.5em;
+            font-weight: normal;
+            color: #795548;
+        }
+
+        header .meta-info {
+            font-size: 0.9em;
+            color: #888;
+        }
+        
+        /* --- NOVO: Estilos para os controles e destaques --- */
+        .controls {
+            text-align: center;
+            margin-bottom: 40px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #eee;
+        }
+
+        .controls button {
+            font-family: sans-serif;
+            font-size: 14px;
+            cursor: pointer;
+            background-color: #f5f5f5;
+            border: 1px solid #ddd;
+            border-radius: 20px;
+            padding: 8px 16px;
+            margin: 5px;
+            transition: all 0.2s ease-in-out;
+        }
+
+        .controls button:hover {
+            background-color: #e0e0e0;
+        }
+
+        .controls button.active {
+            color: white;
+            border-color: #5d4037;
+            background-color: #795548;
+        }
+
+        a[data-category] {
+            transition: background-color 0.3s;
+            border-radius: 3px;
+            padding: 1px 2px;
+        }
+        
+        .highlight-topo { background-color: rgba(173, 216, 230, 0.6); } /* Azul claro */
+        .highlight-antro { background-color: rgba(144, 238, 144, 0.6); } /* Verde claro */
+        .highlight-theo { background-color: rgba(255, 228, 181, 0.7); } /* Amarelo claro */
+        /* --- FIM DOS NOVOS ESTILOS --- */
+
+        main h2 {
+            text-align: center;
+            font-size: 2em;
+            margin-bottom: 30px;
+        }
+
+        .estrofe {
+            position: relative;
+            margin-bottom: 40px;
+            padding-right: 40px; 
+        }
+
+        .estrofe p {
+            margin: 0;
+            padding: 0;
+        }
+
+        .numero-estrofe {
+            position: absolute;
+            top: 0;
+            right: 0;
+            font-size: 1.2em;
+            font-weight: bold;
+            color: #bcaaa4;
+        }
+
+        a {
+            color: #8d6e63;
+            text-decoration: none;
+            border-bottom: 1px dotted #8d6e63;
+        }
+
+        a:hover {
+            color: #5d4037;
+            border-bottom-style: solid;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>Os Lusíadas</h1>
+            <h2>Luís de Camões</h2>
+            <p class="meta-info">
+                Publicado por <strong>Instituto Camões</strong> (Lisboa, 2000)
+            </p>
+            <p class="meta-info"><em>Edição com ortografia modernizada.</em></p>
+        </header>
+
+        <main>
+            <div class="controls">
+                <button data-category="topo">Destacar Topônimos (locais)</button>
+                <button data-category="antro">Destacar Antropônimos (pessoas)</button>
+                <button data-category="theo">Destacar Teônimos (divindades)</button>
+            </div>
+
+            <article>
+                <h2>CANTO I</h2>
+
+                <div class="estrofe">
+                    <span class="numero-estrofe">1</span>
+                    <p>AS armas e os Barões assinalados</p>
+                    <p>Que da Ocidental praia Lusitana</p>
+                    <p>Por mares nunca de antes navegados</p>
+                    <p>Passaram ainda além da <a href="https://pt.wikipedia.org/wiki/Taprobana" target="_blank" data-category="topo">Taprobana</a>,</p>
+                    <p>Em perigos e guerras esforçados</p>
+                    <p>Mais do que prometia a força humana,</p>
+                    <p>E entre gente remota edificaram</p>
+                    <p>Novo Reino, que tanto sublimaram;</p>
+                </div>
+
+                <div class="estrofe">
+                    <span class="numero-estrofe">2</span>
+                    <p>E também as memórias gloriosas</p>
+                    <p>Daqueles Reis que foram dilatando</p>
+                    <p>A Fé, o Império, e as terras viciosas</p>
+                    <p>De <a href="https://pt.wikipedia.org/wiki/%C3%81frica" target="_blank" data-category="topo">África</a> e de <a href="https://pt.wikipedia.org/wiki/%C3%81sia" target="_blank" data-category="topo">Ásia</a> andaram devastando,</p>
+                    <p>E aqueles que por obras valerosas</p>
+                    <p>Se vão da lei da Morte libertando,</p>
+                    <p>Cantando espalharei por toda parte,</p>
+                    <p>Se a tanto me ajudar o engenho e arte.</p>
+                </div>
+
+                <div class="estrofe">
+                    <span class="numero-estrofe">3</span>
+                    <p>Cessem do sábio Grego e do Troiano</p>
+                    <p>As navegações grandes que fizeram;</p>
+                    <p>Cale-se de <a href="https://pt.wikipedia.org/wiki/Alexandre,_o_Grande" target="_blank" data-category="antro">Alexandro</a> e de <a href="https://pt.wikipedia.org/wiki/Trajano" target="_blank" data-category="antro">Trajano</a></p>
+                    <p>A fama das vitórias que tiveram;</p>
+                    <p>Que eu canto o peito ilustre Lusitano,</p>
+                    <p>A quem Neptuno e Marte obedeceram.</p>
+                    <p>Cesse tudo o que a <a href="https://pt.wikipedia.org/wiki/Musa" target="_blank" data-category="theo">Musa</a> antiga canta,</p>
+                    <p>Que outro valor mais alto se alevanta.</p>
+                </div>
+
+                <div class="estrofe">
+                    <span class="numero-estrofe">4</span>
+                    <p>E vós, <a href="https://pt.wikipedia.org/wiki/T%C3%A1gides" target="_blank" data-category="theo">Tágides</a> minhas, pois criado</p>
+                    <p>Tendes em mi um novo engenho ardente,</p>
+                    <p>Se sempre em verso humilde celebrado</p>
+                    <p>Foi de mi vosso rio alegremente,</p>
+                    <p>Dai-me agora um som alto e sublimado,</p>
+                    <p>Um estilo grandíloco e corrente,</p>
+                    <p>Por que de vossas águas <a href="https://pt.wikipedia.org/wiki/Apolo" target="_blank" data-category="theo">Febo</a> ordene</p>
+                    <p>Que não tenham enveja às de <a href="https://pt.wikipedia.org/wiki/Hipocrene" target="_blank" data-category="topo">Hipocrene</a>.</p>
+                </div>
+                
+                <div class="estrofe">
+                    <span class="numero-estrofe">5</span>
+                    <p>Dai-me ũa fúria grande e sonorosa,</p>
+                    <p>E não de agreste avena ou frauta ruda,</p>
+                    <p>Mas de tuba canora e belicosa,</p>
+                    <p>Que o peito acende e a cor ao gesto muda;</p>
+                    <p>Dai-me igual canto aos feitos da famosa</p>
+                    <p>Gente vossa, que a Marte tanto ajuda;</p>
+                    <p>Que se espalhe e se cante no universo,</p>
+                    <p>Se tão sublime preço cabe em verso.</p>
+                </div>
+
+                <div class="estrofe">
+                    <span class="numero-estrofe">6</span>
+                    <p>E vós, ó bem nascida segurança</p>
+                    <p>Da Lusitana antiga liberdade,</p>
+                    <p>E não menos certíssima esperança</p>
+                    <p>De aumento da pequena Cristandade;</p>
+                    <p>Vós, ó novo temor da Maura lança,</p>
+                    <p>Maravilha fatal da nossa idade,</p>
+                    <p>Dada ao mundo por <a href="https://pt.wikipedia.org/wiki/Deus" target="_blank" data-category="theo">Deus</a>, que todo o mande,</p>
+                    <p>Pera do mundo a <a href="https://pt.wikipedia.org/wiki/Deus" target="_blank" data-category="theo">Deus</a> dar parte grande;</p>
+                </div>
+
+                <div class="estrofe">
+                    <span class="numero-estrofe">7</span>
+                    <p>Vós, tenro e novo ramo florecente</p>
+                    <p>De ũa árvore, de <a href="https://pt.wikipedia.org/wiki/Cristo" target="_blank" data-category="theo">Cristo</a> mais amada</p>
+                    <p>Que nenhua nascida no Ocidente,</p>
+                    <p>Cesárea ou Cristianíssima chamada</p>
+                    <p>(Vede-o no vosso escudo, que presente</p>
+                    <p>Vos amostra a vitória já passada,</p>
+                    <p>Na qual vos deu por armas e deixou</p>
+                    <p>As que Ele pera si na Cruz tomou);</p>
+                </div>
+
+                </article>
+        </main>
+    </div>
+
+    <script>
+        // Espera o conteúdo da página ser totalmente carregado
+        document.addEventListener('DOMContentLoaded', () => {
+
+            // Seleciona todos os botões de controle
+            const controlButtons = document.querySelectorAll('.controls button');
+
+            // Adiciona um "ouvinte" de clique a cada botão
+            controlButtons.forEach(button => {
+                button.addEventListener('click', () => {
+                    
+                    // Pega a categoria do botão que foi clicado (ex: "topo", "antro", "theo")
+                    const category = button.dataset.category;
+                    
+                    // Define o nome da classe de destaque (ex: "highlight-topo")
+                    const highlightClass = `highlight-${category}`;
+
+                    // Ativa/desativa o visual do próprio botão
+                    button.classList.toggle('active');
+
+                    // Seleciona todos os links <a> que pertencem a essa categoria
+                    const linksToHighlight = document.querySelectorAll(`a[data-category="${category}"]`);
+
+                    // Para cada link encontrado, adiciona ou remove a classe de destaque
+                    linksToHighlight.forEach(link => {
+                        link.classList.toggle(highlightClass);
+                    });
+                });
+            });
+        });
+    </script>
+
+</body>
+</html>

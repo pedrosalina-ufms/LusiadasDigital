@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei_Lusiadas.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Os Lusíadas</title>
+                <author>Luís de Camões</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto Camões</publisher>
+                <date>2000</date>
+                <pubPlace>Lisboa</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Edição de Os Lusíadas com ortografia modernizada.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+     <body>
+            <div type="canto" n="1">
+                <head>OS LUSÍADAS<lb /><b>OS LUSÍADAS</b></head>
+                <lb />
+                <head>I</head>
+               <lg type="estrofe" n="1">
+                    <n>1</n>
+                    <l>AS armas e os Barões assinalados</l>
+                    <l>Que da Ocidental praia Lusitana</l>
+                    <l>Por mares nunca de antes navegados</l>
+                    <l>Passaram ainda além da <nome id="topo" link="https://pt.wikipedia.org/wiki/Taprobana">Taprobana</nome>,</l>
+                    <l>Em perigos e guerras esforçados</l>
+                    <l>Mais do que prometia a força humana,</l>
+                    <l>E entre gente remota edificaram</l>
+                    <l>Novo Reino, que tanto sublimaram;</l>
+                    </lg>
+                    <lg type="estrofe" n="2">
+                    <n>2</n>
+                    <l>E também as memórias gloriosas</l>
+                    <l>Daqueles Reis que foram dilatando</l>
+                    <l>A Fé, o Império, e as terras viciosas</l>
+                    <l>De <nome id="topo" link="https://pt.wikipedia.org/wiki/%C3%81frica">África</nome> e de <nome id="topo" link="https://pt.wikipedia.org/wiki/%C3%81sia">Ásia</nome> andaram devastando,</l>
+                    <l>E aqueles que por obras valerosas</l>
+                    <l>Se vão da lei da Morte libertando,</l>
+                    <l>Cantando espalharei por toda parte,</l>
+                    <l>Se a tanto me ajudar o engenho e arte.</l>
+                    </lg>
+                    <lg type="estrofe" n="3">
+                    <n>3</n>
+                    <l>Cessem do sábio Grego e do Troiano</l>
+                    <l>As navegações grandes que fizeram;</l>
+                    <l>Cale-se de <nome id="antro" link="https://pt.wikipedia.org/wiki/Alexandre,_o_Grande">Alexandro</nome> e de <nome id="antro" link="https://pt.wikipedia.org/wiki/Trajano">Trajano</nome></l>
+                    <l>A fama das vitórias que tiveram;</l>
+                    <l>Que eu canto o peito ilustre Lusitano,</l>
+                    <l>A quem Neptuno e Marte obedeceram.</l>
+                    <l>Cesse tudo o que a <nome id="theo" link="https://pt.wikipedia.org/wiki/Musa">Musa</nome> antiga canta,</l>
+                    <l>Que outro valor mais alto se alevanta.</l>
+                    </lg>
+                    <lg type="estrofe" n="4">
+                    <n>4</n>
+                    <l>E vós, <nome id="theo" link="https://pt.wikipedia.org/wiki/T%C3%A1gides">Tágides</nome> minhas, pois criado</l>
+                    <l>Tendes em mi um novo engenho ardente,</l>
+                    <l>Se sempre em verso humilde celebrado</l>
+                    <l>Foi de mi vosso rio alegremente,</l>
+                    <l>Dai-me agora um som alto e sublimado,</l>
+                    <l>Um estilo grandíloco e corrente,</l>
+                    <l>Por que de vossas águas <nome id="theo" link="https://pt.wikipedia.org/wiki/Apolo">Febo</nome> ordene</l>
+                    <l>Que não tenham enveja às de <nome id="topo" link="https://pt.wikipedia.org/wiki/Hipocrene">Hipocrene</nome>.</l>
+                    </lg>
+                    <lg type="estrofe" n="5">
+                    <n>5</n>
+                    <l>Dai-me ũa fúria grande e sonorosa,</l>
+                    <l>E não de agreste avena ou frauta ruda,</l>
+                    <l>Mas de tuba canora e belicosa,</l>
+                    <l>Que o peito acende e a cor ao gesto muda;</l>
+                    <l>Dai-me igual canto aos feitos da famosa</l>
+                    <l>Gente vossa, que a Marte tanto ajuda;</l>
+                    <l>Que se espalhe e se cante no universo,</l>
+                    <l>Se tão sublime preço cabe em verso.</l>
+                    </lg>
+                    <lg type="estrofe" n="6">
+                    <n>6</n>
+                    <l>E vós, ó bem nascida segurança</l>
+                    <l>Da Lusitana antiga liberdade,</l>
+                    <l>E não menos certíssima esperança</l>
+                    <l>De aumento da pequena Cristandade;</l>
+                    <l>Vós, ó novo temor da Maura lança,</l>
+                    <l>Maravilha fatal da nossa idade,</l>
+                    <l>Dada ao mundo por <nome id="theo" link="https://pt.wikipedia.org/wiki/Deus">Deus</nome>, que todo o mande,</l>
+                    <l>Pera do mundo a <nome id="theo" link="https://pt.wikipedia.org/wiki/Deus">Deus</nome> dar parte grande;</l>
+                    </lg>
+                    <lg type="estrofe" n="7">
+                    <n>7</n>
+                    <l>Vós, tenro e novo ramo florecente</l>
+                    <l>De ũa árvore, de <nome id="theo" link="https://pt.wikipedia.org/wiki/Cristo">Cristo</nome> mais amada</l>
+                    <l>Que nenhua nascida no Ocidente,</l>
+                    <l>Cesárea ou Cristianíssima chamada</l>
+                    <l>(Vede-o no vosso escudo, que presente</l>
+                    <l>Vos amostra a vitória já passada,</l>
+                    <l>Na qual vos deu por armas e deixou</l>
+                    <l>As que Ele pera si na Cruz tomou);</l>
+                    </lg>
+                    <lg type="estrofe" n="8">
+                    <n>8</n>
+                    <l>Vós, poderoso Rei, cujo alto Império</l>
+                    <l>O Sol, logo em nascendo, vê primeiro,</l>
+                    <l>Vê-o também no meio do Hemisfério,</l>
+                    <l>E quando dece o deixa derradeiro;</l>
+                    <l>Vós, que esperamos jugo e vitupério</l>
+                    <l>Do torpe Ismaelita cavaleiro,</l>
+                    <l>Do Turco Oriental e do Gentio</l>
+                    <l>Que inda bebe o licor do santo Rio:</l>
+                    </lg>
+                    <lg type="estrofe" n="9">
+                    <n>9</n>
+                    <l>Inclinai por um pouco a majestade</l>
+                    <l>Que nesse tenro gesto vos contemplo,</l>
+                    <l>Que já se mostra qual na inteira idade,</l>
+                    <l>Quando subindo ireis ao eterno templo;</l>
+                    <l>Os olhos da real benignidade</l>
+                    <l>Ponde no chão: vereis um novo exemplo</l>
+                    <l>De amor dos pátrios feitos valerosos,</l>
+                    <l>Em versos divulgado numerosos.</l>
+                    </lg>
+                    <lg type="estrofe" n="10">
+                    <n>10</n>
+                    <l>Vereis amor da pátria, não movido</l>
+                    <l>De prémio vil, mas alto e quási eterno;</l>
+                    <l>Que não é prémio vil ser conhecido</l>
+                    <l>Por um pregão do ninho meu paterno.</l>
+                    <l>Ouvi: vereis o nome engrandecido</l>
+                    <l>Daqueles de quem sois senhor superno,</l>
+                    <l>E julgareis qual é mais excelente,</l>
+                    <l>Se ser do mundo Rei, se de tal gente.</l>
+                    </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
